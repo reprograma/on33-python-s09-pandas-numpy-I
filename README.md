@@ -15,29 +15,29 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Dados x informação](#tema1)
-* [ETL](#tema3)
-* [PANDAS](#tema3)
+* [Dados x informação](#dadosxinformacao)
+* [ETL ou ELT](#ETLouELT)
+* [PANDAS](#PANDAS)
 
 ## Conteúdo
 ### Dados x Informação
 1. [O que são dados](#topico1)
- 1. Data Lake
+    - Data Lake
 2. [O que é informação](#topico2)
-  1. BI e data warehouse
+    - BI e data warehouse
 ### ETL ou ELT
 1. [Extract](#topico3)
- 1. INMET
+    - INMET
 2. [Transform](#topico3)
 3. [Load](#topico3)
 ### PANDAS
 1. [Introdução](#topico3)
 2. [Importando dados](#topico3)
 3. [Tranformando dados em informação](#topico3)
-  1. Dataset
-  2. Dados tabulares
-  3. Funções nativas
-  4. Visualização
+    - Dataset
+    - Dados tabulares
+    - Funções nativas
+    - Visualização
 
 ***
 ### Exercícios 
