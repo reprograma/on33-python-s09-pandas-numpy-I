@@ -17,7 +17,7 @@ Antes de começar, vamos organizar nosso setup.
 O que veremos na aula de hoje?
 * [Dados x informação](#dadosxinformacao)
 * [ETL ou ELT](#ETLouELT)
-* [PANDAS](#PANDAS)
+* [PANDAS e NUMPY](#PANDAS)
 
 ## Conteúdo
 ### Dados x Informação
@@ -29,7 +29,7 @@ O que veremos na aula de hoje?
 3. [Load](#topico3)
     - Data Lake
     - Data Warehouse
-### PANDAS e Numpy uma poderosa combinação
+### PANDAS e Numpy
 1. [Introdução](#topico3)
 2. [Importando dados](#topico3)
 3. [Tranformando dados em informação](#topico3)
@@ -58,7 +58,8 @@ Embora sejam parecidos em suas definições acadêmicas, na prática perceberão
 ### Material da aula 
 
 ### Links Úteis
-- [Documentação oficial PANDAS](https://pandas.pydata.org/docs/getting_started)
+- [Documentação oficial PANDAS (EN)](https://pandas.pydata.org/docs/getting_started)
+- [Documentação oficinal NUMPY(EN)](https://numpy.org/doc/stable/user/absolute_beginners.html)
 - [ETL conceitos](https://www.ibm.com/br-pt/topics/etl)
 
 
