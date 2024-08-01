@@ -43,10 +43,11 @@ Para isso, vamos imaginar que temos dados de todos os brasileiros: onde mora, se
 
 Esses DADOS são importante porque eles QUANTIFICAM algo mas sozinhos eles não tem muito valor já que não podemos extrair muitas informações QUALITATIVAS deles. Agora, se eu utilizar esses dados para fazer um levantamento de quantos brasileiros tem casa própria, aí sim seria possível transforma-los em INFORMAÇÃO, veja bem o que o próprio dicionário diz sobre esses dois termos:
 
-DADOS: `Plural de dado, do latim dátus.a.um 'apresentado, entregue'.: Conhecimento que se tem sobre algo, usado para solucionar uma questão, fazer um julgamento, criar ou colocar em prática um pensamento, uma opinião; informação: os dados indicam um aumento do desemprego.`
-INFORMAÇÃO: `Do latim informatio.onis.: Reunião dos conhecimentos, dos dados sobre um assunto ou pessoa.`
+> **DADOS**: Plural de dado, do latim dátus.a.um 'apresentado, entregue'.: Conhecimento que se tem sobre algo, usado para solucionar uma questão, fazer um julgamento, criar ou colocar em prática um pensamento, uma opinião;
 
-Embora sejam muito parecidos em suas definições acadêmicas, na prática perceberão que os dados sozinhos não podem explorar todo o poder que a informação tem a oferecer. Mesmo assim são essenciais, já que a informação não pode ser construída sem eles.
+> **INFORMAÇÃO**: Do latim informatio.onis.: Reunião dos conhecimentos, dos dados sobre um assunto ou pessoa.
+
+Embora sejam parecidos em suas definições acadêmicas, na prática perceberão que os dados sozinhos não podem explorar todo o poder que a informação tem a oferecer. Mesmo assim são essenciais, já que a informação não pode ser construída sem eles.
 
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
