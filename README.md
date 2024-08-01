@@ -27,6 +27,8 @@ O que veremos na aula de hoje?
     - INMET
 2. [Transform](#topico3)
 3. [Load](#topico3)
+    - Data Lake
+    - Data Warehouse
 ### PANDAS e Numpy uma poderosa combinação
 1. [Introdução](#topico3)
 2. [Importando dados](#topico3)
