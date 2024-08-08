@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | Semana X | 202X | Professora X
+Turma Online ON33 | Semana 09 | 2024 | Professora Manuelly Suzik
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -15,52 +15,42 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+* [Dados x informação](#dadosxinformacao)
+* [ETL ou ELT](#ETLouELT)
+* [PANDAS e NUMPY](#PANDAS)
 
 ## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-   
-### Tema3
-1. [Tópico 4](#topico4)
+### Dados x Informação
+1. [Conceitos e definições](#topico1)
+### ETL ou ELT
+1. [Extract](#topico3)
+    - INMET
+2. [Transform](#topico3)
+3. [Load](#topico3)
+    - Data Lake
+    - Data Warehouse
+### PANDAS e Numpy
+1. [Introdução](#topico3)
+2. [Importando dados](#topico3)
+3. [Tranformando dados em informação](#topico3)
+    - Dataset
+    - Dados tabulares
+    - Funções nativas
+    - Visualização
 
-### Tema1 
+### Dados x Informação
+A coisa mais importante que uma cientista de dados precisa saber são os significados e diferenças entre dados, informação e conhecimento. Para elucidar o que significa esses termos temos que levar em conta o processo que os dados levam desde sua coleta até sua utilização e por fim a transformação em informação, com a qual você pode criar conhecimento sobre um certo tema.
 
-#### Topico1
+Para isso, vamos imaginar que temos dados de todos os brasileiros: onde mora, seu gênero, sua classe econômica e outras informações relevantes que estão armazenadas em um banco de dados do governo federal. Pois bem, esses dados por si só mostram a quantidade de brasileiros. Agora imagine que também temos um banco de dados que os registros dos imóveis no Brasil e seus respectivos proprietários.Esse dado, também, não nos daria muitas informações além de quantas casas no brasil tem proprietários.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
+Esses DADOS são importante porque eles QUANTIFICAM algo mas sozinhos eles não tem muito valor já que não podemos extrair muitas informações QUALITATIVAS deles. Agora, se eu utilizar esses dados para fazer um levantamento de quantos brasileiros tem casa própria, aí sim seria possível transforma-los em INFORMAÇÃO, veja bem o que o próprio dicionário diz sobre esses dois termos:
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
+> **DADOS**: Plural de dado, do latim dátus.a.um 'apresentado, entregue'.: Conhecimento que se tem sobre algo, usado para solucionar uma questão, fazer um julgamento, criar ou colocar em prática um pensamento, uma opinião;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
+> **INFORMAÇÃO**: Do latim informatio.onis.: Reunião dos conhecimentos, dos dados sobre um assunto ou pessoa.
 
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+Embora sejam parecidos em suas definições acadêmicas, na prática perceberão que os dados sozinhos não podem explorar todo o poder que a informação tem a oferecer. Mesmo assim são essenciais, já que a informação não pode ser construída sem eles.
 
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
-
-***
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
@@ -68,10 +58,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [Documentação oficial PANDAS (EN)](https://pandas.pydata.org/docs/getting_started)
+- [Documentação oficinal NUMPY(EN)](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [ETL conceitos](https://www.ibm.com/br-pt/topics/etl)
 
 
 <p align="center">
