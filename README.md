@@ -39,46 +39,63 @@ A coisa mais importante que uma cientista de dados precisa saber são os signifi
 
 Para isso, vamos imaginar que temos dados de todos os brasileiros: onde mora, seu gênero, sua classe econômica e outras informações relevantes que estão armazenadas em um banco de dados do governo federal. Pois bem, esses dados por si só mostram a quantidade de brasileiros. Agora imagine que também temos um banco de dados que os registros dos imóveis no Brasil e seus respectivos proprietários.Esse dado, também, não nos daria muitas informações além de quantas casas no brasil tem proprietários.
 
-Esses DADOS são importante porque eles QUANTIFICAM algo mas sozinhos eles não tem muito valor já que não podemos extrair muitas informações QUALITATIVAS deles. Agora, se eu utilizar esses dados para fazer um levantamento de quantos brasileiros tem casa própria, aí sim seria possível transforma-los em INFORMAÇÃO, veja bem o que o próprio dicionário diz sobre esses dois termos:
+Esses DADOS são importante porque eles QUANTIFICAM algo, mas sozinhos não tem muito valor já que não podemos extrair muitas informações QUALITATIVAS deles. Agora, se eu utilizar esses dados para fazer um levantamento de quantos brasileiros tem casa própria, seria possível transforma-los em INFORMAÇÃO.
+
+Veja o que o próprio dicionário diz sobre esses dois termos:
 
 > **DADOS**: Plural de dado, do latim dátus.a.um 'apresentado, entregue'.: Conhecimento que se tem sobre algo, usado para solucionar uma questão, fazer um julgamento, criar ou colocar em prática um pensamento, uma opinião;
 
 > **INFORMAÇÃO**: Do latim informatio.onis.: Reunião dos conhecimentos, dos dados sobre um assunto ou pessoa.
 
-Embora sejam parecidos em suas definições acadêmicas, na prática perceberão que os dados sozinhos não podem explorar todo o poder que a informação tem a oferecer. Mesmo assim são essenciais, já que a informação não pode ser construída sem eles.
+Embora sejam parecidos em suas definições acadêmicas, na prática perceberão que os dados sozinhos não podem explorar todo o poder que a informação tem a oferecer. Mesmo assim, são essenciais já que a informação não pode ser construída sem eles.
 
 ### ETL x ELT
-Existem conceitos que devem ser conhecidos para as pessoas que pretendem trabalhar com dados, e alguns desses conceitos são muito importantes de ser compreendidos sobre o ciclo de vida dos dados. Dentro muito deles, um que considero importante para se conhecer no começo de sua jornada é ETL. Vamos abordar o que é e quando deve ser usado, sem nos aprofundarmos muito em detalhes técnicos desnecessários que podem confundi-las, a intenção é que saibam o que é e a importancia nele no seu trabalho.
+Outros conceitos também devem ser conhecidos para as pessoas que pretendem trabalhar com dados, alguns desses conceitos são muito importantes de serem compreendidos principalmente quando se trata do ciclo de vida dos dados. Dentre eles, um que considero importante para se conhecer no começo de sua jornada é o ETL. Vamos abordar o que é e quando deve ser usado, sem nos aprofundarmos muito em detalhes técnicos desnecessários que possam confundi-las. A intenção é que saibam o que é e a importancia no seu trabalho.
 
-Extract-Transform-Load ou ETL, é um padrão que normalmente é utilizado em serviços para garantir a integridade e armazenamentos dos dados. Vou falar brevemente sobre o que cada uma dessas etapas significa.
+Extract-Transform-Load ou ETL, é um padrão que normalmente é utilizado em serviços para garantir a integridade e armazenamento dos dados.
+
+Explicarei brevemente sobre o que cada uma dessas etapas significa.
 
 #### Extract
-Descreve o processo de extração dos dados de um banco de dados, uma planilha, um dataframe ou basicamente qualquer coisa que registre valores.Além disso, como eles serão compartilhados para quaisquer fins de que o detentor desses dados sinta que é necessário.
+Descreve o processo de extração dos dados de um banco de dados, uma planilha, um dataframe ou basicamente qualquer coisa que registre valores.Além disso, como eles serão compartilhados para quaisquer fins que o detentor desses dados sinta que é necessário.
 
-Nessa etapa, é necessário que uma base de dados esteja pronta para receber conexões ou que sejam capazes de serem compartilhadas, de preferência, nos formatos mais compatíveis e que a integridade desses dados seja confiável.
+Nessa etapa, é necessário que uma base de dados esteja pronta para receber conexões ou que sejam capazes de serem compartilhadas, de preferência nos formatos mais compatíveis, e que a integridade desses dados seja confiável.
 
 #### Transform
-A etapa de transformação dos dados consiste em reforçar a qualidade dos dados, excluindo registros duplicados ou nulos, ou as vezes os convertendo para outros formatos para que sejam lidos mais facilmente pelo sistema de destino.
+A etapa de transformação dos dados consiste em reforçar a qualidade dos dados, excluindo registros duplicados ou nulos, ou às vezes os convertendo para outros formatos para que sejam lidos mais facilmente pelo sistema de destino.
 
 Durante a transformação dos dados é comum que haja cruzamento de dados entre diferentes fontes, seja para criar outros conjunto de dados mais consistentes, atender uma regra específica do negócio ( cliente ) ou até aplicar modificações diretas através de algoritmos de tratamento de dados.
 
 #### Load
-Após os dados serem transformados corretamente, é necessário garantir que esses dados estejam em um lugar específico onde poderão ser consultados sempre que necessários. Essa é a etapa de carregamento( load ), consiste em enviar seus dados tratados ( ou quase ) a um sistema capaz de processa-los e acessa-los rapidamente independente da quantidade de registros que existam.
+Após os dados serem transformados corretamente, é necessário garantir que esses dados estejam em um lugar específico onde poderão ser consultados sempre que necessário. Essa é a etapa de carregamento, que consiste em enviar os dados tratados ( ou quase ) a um sistema capaz de processa-los e acessa-los rapidamente independente da quantidade de registros que existam.
 
 O lugar em que esses dados são enviados são chamados de **data warehouse** ou **data lakes**, e embora não seja muito aconselhado, também podem ser carregados a outros sistemas de armazenamentos de dados como banco de dados de alta perfomance.
 
 ### ELT
-Como já conhecemos o que significa cada uma das letras do ETL ficará fácil falar sobre o ELT, como podemos presumir, nesse formato os dados são carregados antes de serem tratados, isso pode acontecer por diversas razões e a escolha entre os dois formatos depende muito de como seus dados foram extraídos e para qual fim você precisa utiliza-los.
+Como já conhecemos o que significa cada uma das letras do ETL ficará fácil falar sobre o ELT. Como podemos presumir, nesse formato os dados são carregados antes de serem transformados, isso pode acontecer por diversas razões e a escolha entre os dois formatos depende muito de como seus dados foram extraídos e para qual fim você precisa utiliza-los.
 
-O que precisamos saber sobre o processo de ELT é que como os dados não são previamente tratados antes de serem armazenados, costumam consumir muito espaço e tempo para que as informações sejam encontradas, para enfim serem tratadas. Isso é tão ruim quanto parece ser, mas como cientistas de dados serão capazes de indentificar em qual momento ele deverá ser usado.
+O que precisamos saber sobre o processo de ELT é que como os dados não são previamente tratados, costumam consumir muito espaço e tempo para que as informações sejam encontradas, aumentando custo e complexidade. Isso é tão ruim quanto parece ser, mas como cientistas de dados serão capazes de indentificar em qual momento ele deverá ser usado.
 
 ### Pandas
+**O que é:** Uma biblioteca que pode ser usada na linguagem de programação python, usada no processo tanto de extração quanto de transformação de dados. Devido a sua capacidade de carregar diversas extensões de arquivos diferentes ( CSV, XLSX, XLS...) e também a velocidade em que consegue ler esses arquivos e tranforma-los em **Dataframes**.
+
+**Como usa-la**
+```Python
+pip install pandas
+```
+```Python
+import pandas as pd
+```
+
+#### ETL com Pandas
+- Extraindo: Nossa base de dados será um arquivo CSV que contém despesas por ógãos públicos. Esses dados podem ser coletados e estão dispoínel para consulta pública no [portal da transparência](https://portaldatransparencia.gov.br/despesas/funcao?ordenarPor=funcao&direcao=asc) do Governo Federal.
+- Transformando: Vamos usar o pandas para consultar, alterar e visualizar e **normalizar** os dados da nossa tabela.
+- Carregando: Criaremos um arquivo novo com os dados que tratados para que sejam consumidos por algum sistema.
 
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
-### Material da aula 
 
 ### Links Úteis
 - [Documentação oficial PANDAS (EN)](https://pandas.pydata.org/docs/getting_started)
