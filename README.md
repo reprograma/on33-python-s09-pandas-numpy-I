@@ -88,9 +88,9 @@ import pandas as pd
 ```
 
 #### ETL com Pandas
-- Extraindo: Nossa base de dados será um arquivo CSV que contém despesas por ógãos públicos. Esses dados podem ser coletados e estão dispoínel para consulta pública no [portal da transparência](https://portaldatransparencia.gov.br/despesas/funcao?ordenarPor=funcao&direcao=asc) do Governo Federal.
-- Transformando: Vamos usar o pandas para consultar, alterar e visualizar e **normalizar** os dados da nossa tabela.
-- Carregando: Criaremos um arquivo novo com os dados que tratados para que sejam consumidos por algum sistema.
+- Extraindo: Utilizando as funções de leitura como o `read_csv()` conseguimos extrair os dados de um dataset e tranforma-los em um dataframe, que é um tipo com o qual o pandas consegue ler e manipular.
+- Transformando: Através de funções como `replace()`, `drop_duplicates()` e etc., conseguimos consultar, alterar, visualizar e **normalizar** os dados da nossa tabela. Também conseguimos converter os valores de uma coluna utilizando `astype()`
+- Carregando: Por fim, funções como `to_json` conseguem criar arquivos a partir de um dataframe.
 
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
