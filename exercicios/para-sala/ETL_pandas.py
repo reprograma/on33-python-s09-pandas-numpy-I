@@ -23,7 +23,7 @@ print(df.dtypes) # retorna o tipo de dados de cada coluna / object = string
 
 #Para converter dados
 # o pd.to_datetime - transformamos a coluna date em datetime
-df['Date'] = pd.to_datetime(df['Date'], format="mixed") # o mixed mantem o formato e serve para ???
+df['Date'] = pd.to_datetime(df['Date'], format="mixed") # o mixed mantem o formato e serve para mostrar o formato real que ela tem
 
 print(df.dtypes)
 
