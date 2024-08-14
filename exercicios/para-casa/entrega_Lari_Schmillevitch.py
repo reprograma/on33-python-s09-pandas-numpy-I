@@ -5,13 +5,9 @@ df = pd.read_csv("/Users/laristch/Desktop/reprograma/on33-python-s09-pandas-nump
 print(df.head())
 
 # Identificar colunas que contêm números e converter para o tipo numérico
-for coluna in df.columns:
-    if df[coluna].dtype == 'object':
-        try:
-            df[coluna] = pd.to_numeric(df[coluna].str.replace(",", ""), errors='raise')
-        except ValueError:
-            # Se não for possível converter, ignorar essa coluna
-            pass
+for column in df.columns:
+    if df[column].dtype == "object":
+        df[column] = df[column].str.replace(",", "").astype(float, errors='ignore')
 print(df.dtypes)
 
 # Corrigir a coluna 'Release Date' para o formato datetime
