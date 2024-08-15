@@ -1,0 +1,33 @@
+import pandas as pd
+
+file_path = 'C:/Users/alexc/OneDrive/Curso_Python/Reprograma_On33/Semana_11/on33-python-s09-pandas-numpy-I/material/mais_ouvidas_2024.csv'
+df = pd.read_csv(file_path)
+print(df.head())
+
+
+numerical_columns = ['Spotify Streams', 'YouTube Views', 'TikTok Views', 'Pandora Streams', 'Soundcloud Streams',
+                     'Spotify Popularity', 'TikTok Likes', 'Shazam Counts']
+
+
+for col in numerical_columns:
+    df[col] = df[col].replace({',': ''}, regex=True).astype(float)
+print(df[numerical_columns].dtypes)  
+
+
+df['Release Date'] = pd.to_datetime(df['Release Date'], format='%Y-%m-%d')
+print(df['Release Date'].head())  
+
+
+df['Streaming Popularity'] = df[['Spotify Popularity', 'YouTube Views', 'TikTok Likes', 'Shazam Counts']].mean(axis=1)
+print(df[['Spotify Popularity', 'YouTube Views', 'TikTok Likes', 'Shazam Counts', 'Streaming Popularity']].head())
+
+df['Total Streams'] = df[['Spotify Streams', 'YouTube Views', 'TikTok Views', 'Pandora Streams', 'Soundcloud Streams']].sum(axis=1)
+print(df[['Spotify Streams', 'YouTube Views', 'TikTok Views', 'Pandora Streams', 'Soundcloud Streams', 'Total Streams']].head())
+
+filtered_df = df[(df['Spotify Popularity'] > 80) & (df['Total Streams'] > 1_000_000)]
+print(filtered_df.head())  
+
+filtered_df.to_json('faixas_filtradas.json', orient='records', lines=True)
+
+import os
+print(os.path.exists('faixas_filtradas.json'))
