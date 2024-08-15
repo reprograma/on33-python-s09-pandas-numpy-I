@@ -1,0 +1,811 @@
+TransactionID,Date,MobileModel,Brand,Price,UnitsSold,TotalRevenue,CustomerAge,CustomerGender,Location,PaymentMethod,Total Sales Value,Profit Margin
+79397f68-61ed-4ea8-bcb2-f918d4e6c05b,2024-01-06,direction,Green Inc,1196.95,85,28002.8,32,Female,Port Erik,Online,101740.75,30522.225
+4f87d114-f522-4ead-93e3-f336402df6aa,2024-04-05,right,Thomas-Thompson,1010.34,64,2378.82,55,Female,East Linda,Credit Card,64661.76,19398.528
+6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1,2024-02-13,summer,Sanchez-Williams,400.8,95,31322.56,57,Male,East Angelicastad,Online,38076.0,11422.8
+7da7de95-f772-4cc2-bce0-b0873f98233e,2024-04-17,keep,Greer and Sons,338.6,79,31159.75,46,Other,East Kevin,Cash,26749.4,8024.82
+469044af-0d60-4d87-af66-c6603e844057,2024-06-02,option,Brown and Sons,839.79,41,11523.36,38,Male,New Lindaborough,Online,34431.39,10329.417
+f7e98db9-cb87-453e-8179-e48ba5443932,2024-03-07,idea,"Massey, Nicholson and Young",1498.13,70,9703.89,45,Female,Port Daryl,Debit Card,104869.1,31460.73
+61f1c03f-5527-49bf-88f6-0d8694e72d41,2024-07-13,southern,Coleman-Pena,975.77,63,8300.22,23,Other,Kathrynborough,Online,61473.51,18442.053
+55d74ccb-e3c0-4ceb-a102-6d553736b944,2024-03-18,top,"Brock, Cruz and Santiago",530.7,79,4515.8,26,Female,Kyleborough,Online,41925.3,12577.59
+889bd479-e06a-494d-baae-e099bea5469c,2024-04-12,anything,"Griffin, Boyle and Dawson",178.52,58,36150.93,20,Female,Jacquelinestad,Debit Card,10354.16,3106.248
+567c276b-fec4-47e4-b5be-71f2b79bd745,2024-04-19,wall,"Arroyo, Jones and Clayton",774.79,92,24228.27,33,Male,South Jessicachester,Online,71280.68,21384.203999999998
+f7d25e75-e7e6-4b61-8879-63121787a1dd,2024-07-13,happen,"Carlson, Mcdonald and Hatfield",806.59,22,2327.26,41,Other,Allisonview,Cash,17744.98,5323.494
+1a9dfe22-c8d8-4872-8cb3-1e7d37c492a9,2024-01-27,nothing,Cross Inc,1460.22,49,14547.5,37,Other,West Amy,Online,71550.78,21465.234
+740bd70e-8837-4f7f-8621-45d98a0788ea,2024-02-16,her,Jackson-Garza,761.48,45,36463.14,43,Female,Harrishaven,Debit Card,34266.6,10279.98
+72122aaf-4049-4799-9c5e-56fa0bda637a,2024-07-02,admit,Neal-Francis,965.15,76,112966.65,53,Other,Brandonfort,Online,73351.4,22005.42
+41e73345-7161-4b86-9922-848a9ca80bf9,2024-06-05,action,Shaw-Farmer,1354.69,10,38613.38,38,Male,Griffinland,Online,13546.900000000001,4064.07
+21c8f1ad-417b-46a8-8bec-ccfe5d9b18f9,2024-05-01,treatment,"Best, Ross and Smith",1025.05,97,3751.67,31,Other,Joetown,Debit Card,99429.84999999999,29828.954999999994
+f0e76c4a-2a03-4c2d-821c-114e2877fa0d,2024-07-13,have,Burton LLC,1071.99,22,34368.64,56,Female,Port Mikehaven,Cash,23583.78,7075.133999999999
+a1dae876-8ee4-4d2e-ac91-35d2536426cf,2024-06-12,role,"Byrd, Thompson and Rhodes",1415.74,65,28099.3,35,Other,Sharonmouth,Debit Card,92023.1,27606.93
+01ba7cfd-dc66-4825-9d40-3575f752c1cc,2024-01-02,wait,"Graves, Turner and Crawford",678.72,60,86889.63,59,Female,South Edward,Online,40723.200000000004,12216.960000000001
+e2b513d1-e3c2-4592-b59e-735b9c1fc2c1,2024-05-12,class,Villanueva-Ramirez,1092.94,54,2833.22,60,Female,Lake Corey,Online,59018.76,17705.628
+0e6b5315-5a90-4d0c-a4db-4b05d041c7e6,2024-02-27,wear,Miller-Price,182.24,71,70443.92,52,Female,Oconnellmouth,Cash,12939.04,3881.712
+bba8307d-a14f-4411-a2b1-7691e9102fa7,2024-04-07,figure,Hood Inc,1431.15,54,26619.18,20,Male,North Richardville,Credit Card,77282.1,23184.63
+8dfb7ce2-660c-48db-b717-3590cc89f89a,2024-06-30,dinner,Miller-Harper,1019.82,56,18108.4,32,Other,Shafferbury,Credit Card,57109.920000000006,17132.976000000002
+daf241b5-33e3-44fb-addf-8c6038821655,2024-04-05,receive,Decker Ltd,1458.52,22,21524.72,27,Other,Nicholasfurt,Cash,32087.44,9626.232
+e59a8eb1-8448-4719-8502-2c97407d0ff9,2024-01-08,free,Nelson and Sons,1333.31,79,49676.78,45,Female,East Brianstad,Online,105331.48999999999,31599.446999999996
+b9c9fb79-ae15-4b97-a439-12327ad25869,2024-02-02,responsibility,"Burch, Wilson and Yang",785.38,87,71119.0,63,Male,New Sophiatown,Online,68328.06,20498.417999999998
+6f0c7e6b-bafc-4b7f-aec1-931619bd777c,2024-06-28,myself,"Ross, Strickland and Johns",421.01,51,86275.7,27,Female,New Tammy,Online,21471.51,6441.4529999999995
+531d046b-c78e-4775-92ef-f4f69901107b,2024-03-22,market,Oliver-Oconnell,537.32,43,98720.64,42,Female,West Tabithafort,Cash,23104.760000000002,6931.428000000001
+ec9dcc53-48a9-4453-b551-932a13366e8e,2024-07-17,step,Ho-Porter,192.48,85,95400.2,33,Male,South Michael,Cash,16360.8,4908.24
+d8d17b9e-24f3-4611-a4ea-23740ccee03a,2024-04-18,good,"Jacobs, Shepherd and Green",335.83,98,8665.92,55,Female,Leehaven,Cash,32911.34,9873.401999999998
+4bf65265-8b98-440f-a66e-efef35df43f9,2024-01-02,can,Smith-Walters,312.97,58,31428.24,64,Male,West Rebekah,Debit Card,18152.260000000002,5445.678000000001
+98a6dabf-c1a1-4141-98d1-8dfbf4844b24,2024-06-04,trip,Walker PLC,411.89,35,125995.87,56,Other,West Gina,Debit Card,14416.15,4324.844999999999
+f697038c-e26d-43b8-beae-3824a4242583,2024-04-03,with,"Hill, Mann and Martinez",1070.05,62,10732.82,21,Female,New Betty,Credit Card,66343.09999999999,19902.929999999997
+8fdb323b-83af-4344-8d72-b57ec9589874,2024-04-01,forward,Brooks LLC,704.12,19,120880.32,59,Other,New Jennifer,Credit Card,13378.28,4013.484
+44e48b6e-0499-4f77-b82f-cd9173e8f67a,2024-04-10,audience,Harris and Sons,287.36,89,73214.04,51,Female,Wrightstad,Cash,25575.04,7672.512
+a787145d-8945-4c75-869c-128f35e91a17,2024-06-28,meeting,White-Hood,1426.06,60,93383.22,51,Male,West Anna,Online,85563.59999999999,25669.079999999998
+59135d6f-d4bb-49ad-b12a-4d393d4ff380,2024-03-11,too,"Hammond, Fernandez and Davis",293.4,68,463.58,34,Male,Monicahaven,Credit Card,19951.199999999997,5985.359999999999
+4efa02dd-55bc-44bb-89f0-e0604ca95647,2024-07-11,others,"King, Carpenter and George",228.77,71,48586.56,40,Female,South Robert,Debit Card,16242.67,4872.8009999999995
+5c8fe5d0-201e-42af-8ff3-4b063e6f2939,2024-07-11,place,"Wagner, Burton and Ashley",189.31,59,67765.12,56,Female,Jennifertown,Cash,11169.29,3350.7870000000003
+87a77bc0-8fa3-4742-a85c-8d2a9cbf0c85,2024-02-07,party,Lee LLC,694.54,59,35207.2,26,Other,Reidport,Credit Card,40977.86,12293.358
+af4bba74-aa00-436f-8764-1e1aab997041,2024-03-02,research,Sullivan Ltd,270.46,58,6258.22,29,Female,Foxview,Online,15686.679999999998,4706.003999999999
+07fa81d5-6de5-480f-a74c-447d1dafd82b,2024-05-29,century,Webb-Davila,1289.42,14,96058.13,34,Male,Brightton,Credit Card,18051.88,5415.564
+258ebf2d-f876-4088-bf03-88d5474c54ab,2024-04-09,reality,Martin-Gardner,433.88,66,25384.0,64,Female,North Jesse,Online,28636.079999999998,8590.823999999999
+c3c81cda-10de-404e-96d3-7e0dc906f373,2024-02-05,never,York Inc,680.7,34,64526.3,23,Male,Fullermouth,Cash,23143.800000000003,6943.14
+ce333627-a441-47b9-809c-526b7222bb7c,2024-02-12,herself,Lane Ltd,189.93,61,99262.8,57,Other,Port Rebeccamouth,Credit Card,11585.73,3475.7189999999996
+f44ab7a8-2a18-4aa3-8661-cda9bd19f67d,2024-05-01,its,Chaney and Sons,965.16,78,32687.94,53,Female,West Sandra,Online,75282.48,22584.744
+027fc1ac-20db-4e5a-9d12-f258b96d1142,2024-03-23,low,Mack Group,1100.78,26,86627.31,56,Male,East Gregoryburgh,Credit Card,28620.28,8586.083999999999
+a1650f89-14e5-4c61-89ee-1c5bdc39f805,2024-04-07,process,"Paul, Andersen and Carr",527.45,52,70490.16,46,Female,Jasonberg,Debit Card,27427.4,8228.22
+297d71a3-ca70-481c-b163-0d645a3f623f,2024-07-07,child,"Smith, Miller and Cooper",903.7,89,50154.39,38,Male,New Brittanyfort,Online,80429.3,24128.79
+39b83ab9-ba07-4744-a3ec-180a86314e4a,2024-07-11,eat,Wright-Green,1357.33,33,21559.2,55,Other,New Maria,Debit Card,44791.89,13437.567
+9ec1aba1-0fdd-49d7-9fb6-2e3f32693ed4,2024-05-06,smile,"Peters, Hayes and Sanchez",1036.47,25,44564.36,45,Other,New Joel,Debit Card,25911.75,7773.525
+797876a4-bc06-44d0-8bac-d5123fb72501,2024-03-08,character,Hopkins-Mahoney,773.02,95,28896.63,36,Male,Lake Heathershire,Credit Card,73436.9,22031.069999999996
+5887426c-37bf-401e-b3fe-2b4fd005eb62,2024-03-30,necessary,Dean LLC,1292.49,15,87996.75,39,Female,West Brian,Credit Card,19387.35,5816.204999999999
+8762735e-ec2b-4099-9ca1-b8d3fb475c01,2024-05-07,laugh,Shah PLC,1123.18,58,27109.12,59,Other,Lake Priscillahaven,Online,65144.44,19543.332
+a6db8dd1-5a25-4e41-9ee8-5e97b86b8444,2024-06-21,measure,Garcia Inc,288.55,79,82870.56,50,Other,East Jessefort,Cash,22795.45,6838.635
+f53cd32e-b7a1-41e1-a810-758275daecca,2024-06-28,when,Ramos and Sons,261.06,77,23637.81,49,Other,Debrafurt,Cash,20101.62,6030.486
+7e2ce318-5380-452d-81ec-254a41d9ce67,2024-03-31,while,"Bonilla, Gordon and Petersen",1327.33,26,83233.36,39,Female,Hartfort,Credit Card,34510.58,10353.174
+869ca369-5389-41ee-84c0-7cf23f71dc63,2024-03-22,energy,Jones Inc,912.97,15,39709.44,61,Female,Jesusshire,Credit Card,13694.550000000001,4108.365
+76ef1fee-74f4-44ef-aef1-4594ad7cf361,2024-06-14,detail,Bates and Sons,1467.95,52,40111.36,54,Male,South William,Credit Card,76333.40000000001,22900.02
+ee4e3ab6-7c6f-4119-819d-6ba71e0da773,2024-05-12,third,Miller-Robinson,1266.01,23,6107.76,51,Male,Theresaton,Debit Card,29118.23,8735.469
+41d46fa9-746c-4c6c-8da6-93a6417f2355,2024-02-01,appear,Ward Inc,1371.76,71,1222.0,47,Other,North David,Debit Card,97394.96,29218.488
+4af0e6cd-eaa7-49b8-bce0-3a00560c2f2c,2024-03-31,hit,Rice PLC,1028.67,22,17203.25,58,Other,Blackview,Debit Card,22630.74,6789.222000000001
+5b7f9b73-4ccd-4e8e-85ee-17254aa07835,2024-06-08,paper,Mitchell-Barrett,1477.41,63,947.61,62,Other,North Charles,Online,93076.83,27923.049
+b5119fd6-e0d7-44ee-8f87-44f91d42de3f,2024-05-23,law,Roach-Strong,1236.37,89,26408.0,43,Female,Victorview,Credit Card,110036.93,33011.079
+898a97fa-0c66-4e08-9693-e893a3f1ad58,2024-03-01,today,Ortiz-Kaiser,974.75,37,140738.88,60,Male,New Margaretfurt,Debit Card,36065.75,10819.725
+54397aec-2cd9-435d-b4a1-4d8bcdb84e63,2024-02-19,role,"Shah, Blackwell and Adams",1062.8,93,75330.45,42,Male,Lake Nathanchester,Cash,98840.4,29652.119999999995
+d16ed785-9e71-4269-9d2a-93cf2c566552,2024-06-29,explain,Simpson and Sons,1422.58,33,105494.46,58,Other,Port Barbara,Credit Card,46945.14,14083.542
+b4de2bb0-6426-4ae0-bc2d-1d6bc309fb38,2024-03-30,Democrat,"Joseph, Santos and Nelson",365.41,75,60477.25,19,Female,Port Rebeccaland,Online,27405.750000000004,8221.725
+03d675d2-f4c7-4860-b159-f7df7142b87e,2024-07-07,special,Weaver Ltd,1418.24,99,1877.76,42,Other,Port Ericstad,Credit Card,140405.76,42121.728
+aeed02b7-48d9-4ff1-9fef-b5de0db93513,2024-02-23,fear,Hunter PLC,1228.78,66,139249.92,58,Male,West Joannaborough,Cash,81099.48,24329.843999999997
+9b4f4a39-8512-411a-8533-2b1d99cf4e64,2024-06-24,travel,"James, Garcia and Brown",1141.24,94,98242.2,28,Female,Bellview,Cash,107276.56,32182.967999999997
+b759eaed-ab7a-42b8-ac39-73e4ac7781f3,2024-07-17,major,"Thompson, Chapman and Jones",479.23,78,1702.95,42,Female,Beckfurt,Online,37379.94,11213.982
+691e8f83-2779-414b-b837-f04615dde8b0,2024-07-09,choice,"Rowland, Monroe and Owen",481.26,93,11783.43,45,Female,New Hannah,Cash,44757.18,13427.154
+8d757a3c-6ffc-4b44-97aa-de01f6bc3b56,2024-06-06,bar,Jordan-Williams,1409.49,81,29360.24,40,Other,Alberttown,Credit Card,114168.69,34250.606999999996
+90906e18-e81f-4c58-96d8-a2612e8493cf,2024-01-20,matter,Robinson-King,1439.55,46,31821.5,22,Other,West Briantown,Cash,66219.3,19865.79
+3a59ca6b-4f80-443f-9925-c6471b119fc5,2024-02-10,produce,"Hahn, Hamilton and Johnson",1187.15,20,52251.76,40,Other,Mooreside,Debit Card,23743.0,7122.9
+1fff1cf1-98ab-4759-8b33-9d77b299df9e,2024-01-25,bed,"Bishop, Rodriguez and Bell",950.36,33,39469.5,45,Female,Staceyfort,Online,31361.88,9408.564
+1e1366c5-2dce-4830-ab58-a950ec3dd16b,2024-01-28,service,"Rojas, Kelly and Scott",903.82,16,4056.39,31,Male,South Daniel,Cash,14461.12,4338.336
+069f9a99-d916-4ee4-9f82-d46f0ad207c4,2024-02-25,fast,"Williams, King and Hayes",1207.94,70,92079.92,27,Other,Lake Madisonview,Credit Card,84555.8,25366.74
+eb38ce0c-47d1-417f-9855-641aa5f4ee6f,2024-05-17,through,Black and Sons,219.93,66,43416.0,62,Other,New Johnchester,Debit Card,14515.380000000001,4354.6140000000005
+e0511291-5e6b-4e9e-bcc8-f4440e672b9c,2024-03-20,quality,Matthews Ltd,862.18,56,33927.08,32,Female,Khanmouth,Debit Card,48282.079999999994,14484.623999999998
+afd5f391-c2d3-42cd-9a9a-0d6eca22199f,2024-06-20,two,"Carlson, Brennan and Robinson",803.5,25,34120.61,34,Other,Port Susan,Online,20087.5,6026.25
+fd677e01-2fe0-41dc-8125-28ac13e93ea1,2024-05-01,population,Jones-Wilson,949.75,49,72023.6,46,Female,East Cherylfurt,Credit Card,46537.75,13961.324999999999
+698ba3d2-6344-40bc-b5af-2eb5255aabff,2024-04-09,room,"Stewart, Gutierrez and Avila",1115.61,50,24492.16,25,Male,Fuentesstad,Debit Card,55780.49999999999,16734.149999999998
+f6fce23b-3313-491a-9b9f-6c5b6e3619f9,2024-03-24,source,"Turner, Vega and Green",900.04,54,36582.21,20,Other,West Thomas,Credit Card,48602.159999999996,14580.648
+21c0adf5-427e-45fc-96db-82287c6522e1,2024-07-08,appear,Perez LLC,907.24,62,16560.38,45,Male,New Randall,Credit Card,56248.88,16874.663999999997
+7a3b5007-625c-444e-85b4-e4f747162966,2024-01-27,decade,Herrera LLC,352.6,76,68427.18,25,Other,Harrismouth,Credit Card,26797.600000000002,8039.280000000001
+270eb8a0-d199-4342-9e33-5c456f79e2cc,2024-07-09,none,"Castro, Briggs and Gilmore",897.86,19,8619.39,30,Other,Clarkfurt,Credit Card,17059.34,5117.802
+d1e7a1d9-3a9b-4e50-846a-6566572b5079,2024-07-14,think,Peterson Inc,1007.3,15,105106.96,50,Male,Schroederland,Debit Card,15109.5,4532.849999999999
+c326068c-3351-4062-bf05-e67818db5371,2024-03-07,force,Harmon Group,757.33,96,55075.02,44,Other,Brianborough,Cash,72703.68000000001,21811.104000000003
+421d315d-d454-485a-9881-e9801611071b,2024-02-16,wrong,"Thompson, Johnson and Wong",923.2,33,1273.98,43,Female,Bakerside,Online,30465.600000000002,9139.68
+d1545137-dcd3-4766-af7c-4c6c2e941ccc,2024-01-01,career,Collins PLC,823.68,25,18860.4,37,Female,Nicholsville,Credit Card,20592.0,6177.599999999999
+da1a3e79-cbc6-4313-bb83-2a45e1b9ec28,2024-07-17,practice,Gilbert Inc,1330.5,43,47621.2,49,Female,Port Nicolas,Cash,57211.5,17163.45
+656af0a4-6f81-4f21-9371-3558566fa26b,2024-06-12,simply,"Hull, Terrell and Buchanan",1318.54,40,29248.28,56,Other,Watkinshaven,Debit Card,52741.6,15822.48
+2f4f5e71-2ec7-4658-8968-d902d5a8dbf9,2024-03-13,international,Mccullough-Powell,1474.17,14,11301.76,39,Female,Maryfort,Online,20638.38,6191.514
+f1501b05-2741-47b9-8fef-3bb5fd227f3c,2024-04-10,few,Hawkins PLC,992.42,71,35213.1,61,Other,Lake Maryview,Credit Card,70461.81999999999,21138.546
+35dea481-98a2-48ef-a7c8-4e253b10424d,2024-03-21,traditional,Clark LLC,626.57,28,28098.4,35,Female,Ochoamouth,Cash,17543.960000000003,5263.188000000001
+6c0c9ff0-9c9d-4090-8aad-aae53c70a2e6,2024-05-20,show,Bernard Ltd,259.15,47,86868.48,27,Male,Danielport,Credit Card,12180.05,3654.015
+2caec01b-6e79-421c-b260-cc638113098a,2024-04-19,show,Morrison-Andersen,1034.38,93,48570.64,51,Female,New Sherribury,Credit Card,96197.34000000001,28859.202
+098cee59-d162-415d-a0e6-74b73a2bfd95,2024-01-14,require,Gilbert Inc,613.96,45,7728.49,18,Male,Hopkinston,Credit Card,27628.2,8288.46
+2f03a125-88dd-47e0-8a0f-995b3dade3b4,2024-04-10,be,Fitzpatrick-Miller,1337.3,35,1282.45,22,Male,Nathanview,Credit Card,46805.5,14041.65
+b76f68ce-6896-45cf-96c0-9812490fe828,2024-06-01,huge,Morton and Sons,359.23,59,125460.8,63,Other,Teresaton,Online,21194.57,6358.371
+64f4886c-21d2-40be-ba50-fd8db0dcc05b,2024-06-03,center,Brown PLC,589.57,49,52554.32,64,Male,Lake Colleenstad,Credit Card,28888.930000000004,8666.679
+5c5b6e7d-4a0c-42b5-b36c-eb914ae09e95,2024-03-20,surface,"Williamson, Fuller and Ward",1178.86,29,13516.25,53,Other,South John,Credit Card,34186.939999999995,10256.081999999999
+dcf407ec-4623-4a00-8660-235e1036d476,2024-05-08,which,"Camacho, Fox and Smith",1423.78,51,3151.26,35,Female,North Logan,Online,72612.78,21783.834
+8201d6e3-4f18-4911-9b28-c50627fd1640,2024-02-11,test,Walker-White,1444.64,89,12646.8,51,Female,East Kenneth,Cash,128572.96,38571.888
+71e5519b-ebcd-4ae6-8c37-165aa0b2e39e,2024-01-14,me,Lane Group,824.69,62,32474.4,36,Female,Veronicaport,Cash,51130.780000000006,15339.234
+149c4028-afae-4eb0-b03e-dd6b4dccce9a,2024-03-23,field,"Williams, Coffey and Garcia",912.6,21,24546.72,56,Male,West Michael,Credit Card,19164.600000000002,5749.38
+4a38758a-4bdd-4c44-a177-f80ad22feb33,2024-07-12,light,Watson-Dougherty,938.75,66,42781.86,62,Other,North Ruthborough,Credit Card,61957.5,18587.25
+96d4f89c-5b22-4bc3-a153-b82ab110f4b4,2024-06-25,candidate,"Campbell, Shelton and Walker",1412.91,49,56790.45,29,Other,Luistown,Debit Card,69232.59000000001,20769.777000000002
+5cdeffc8-f100-47bb-8fc7-fc48a52b3e4a,2024-02-04,treat,"Nelson, Carroll and Marsh",1091.68,52,8165.82,38,Other,Michaelshire,Online,56767.36,17030.208
+b405351a-0218-48d8-ad25-d2da03904ef4,2024-02-11,cause,Marshall-Olsen,988.44,19,726.36,39,Female,New Elizabeth,Debit Card,18780.36,5634.108
+3662082a-1954-422b-bde5-0e7b833103db,2024-03-31,different,Harris Group,321.11,50,59594.08,24,Male,Thompsonmouth,Online,16055.5,4816.65
+d88b82f3-1f09-48cd-a48b-ddf2484da53a,2024-06-01,officer,Galvan Group,384.15,31,13896.84,25,Other,Andrealand,Online,11908.65,3572.595
+d836af8a-f883-46cd-960a-6a9e043fd374,2024-05-16,culture,Foster-White,811.97,87,4784.6,18,Male,East Joseport,Debit Card,70641.39,21192.416999999998
+bc073bb6-6579-4ed5-bdd4-844710b7a28a,2024-04-05,provide,"Kline, Johnson and Hall",742.68,20,3173.48,24,Male,Fisherstad,Debit Card,14853.599999999999,4456.079999999999
+453150f7-9f21-41e8-8b98-34b3ed38094c,2024-05-26,five,"Brown, Parsons and Johnson",205.46,61,7050.75,47,Other,North Zacharyside,Credit Card,12533.060000000001,3759.918
+15c89b2f-f185-41e5-b0cd-e8509eaafa88,2024-02-28,first,"Cole, Mckinney and Maddox",978.13,31,22346.47,45,Other,South Joshuaside,Credit Card,30322.03,9096.608999999999
+b0ba4ceb-ca74-4200-9e93-c0b698af493e,2024-04-28,conference,Townsend PLC,735.25,83,89165.25,54,Female,West Derek,Credit Card,61025.75,18307.725
+54619eff-3d8d-4e16-b4c4-910619ea1990,2024-05-16,about,"Paul, Goodman and Richardson",385.39,31,16529.13,34,Male,Port Ashlee,Online,11947.09,3584.127
+cb4d7c5f-824b-4bae-8061-1ee9343d7327,2024-03-16,environmental,Stewart Ltd,696.42,29,87906.92,50,Female,Port Teresaport,Online,20196.18,6058.854
+5ba6718c-f634-4c98-979d-289be3f570a4,2024-01-07,stay,Baldwin-Swanson,1194.98,66,14308.5,35,Other,Steelechester,Debit Card,78868.68000000001,23660.604000000003
+73f0f916-a8b5-4d09-8026-41bed9ba0e41,2024-04-25,sell,"Santiago, Jones and Bell",464.15,34,24009.0,62,Other,West Toddside,Online,15781.099999999999,4734.329999999999
+8eb5f50a-b99c-41d8-85b0-cbe79295764c,2024-07-10,any,Baird-Henderson,1085.16,49,27642.2,38,Male,New Keithport,Online,53172.840000000004,15951.852
+27ff81bf-7456-46a4-9a68-c48bced1e81b,2024-06-13,guy,"Sanchez, Johnson and Mosley",687.38,42,5406.52,62,Female,Kristinaport,Cash,28869.96,8660.988
+1729d815-4872-4db8-8a06-527cab9b72db,2024-02-28,realize,"Goodman, Hughes and White",894.34,90,37661.8,47,Female,North Lisaport,Debit Card,80490.6,24147.18
+e2e5814b-e513-4b63-84ba-888d77419b9f,2024-04-14,front,Sanders-Estrada,598.5,73,41566.36,30,Female,North Nicoleberg,Credit Card,43690.5,13107.15
+b94a2868-0565-45a2-8c29-e0b1f085ab0a,2024-03-13,interview,Odom-Green,618.99,26,44209.76,56,Other,Rebeccaland,Debit Card,16093.74,4828.121999999999
+8499624a-1c49-4645-9c65-df13c57c87d9,2024-07-01,matter,Andrews LLC,1269.71,96,72588.74,41,Female,Powellmouth,Credit Card,121892.16,36567.648
+7f36c3a2-ff43-483b-adb8-668e37d16534,2024-07-15,partner,Hebert Inc,1352.48,95,20333.88,32,Other,Crawfordville,Online,128485.6,38545.68
+65cc396b-4349-4ee3-83b6-b73333f93133,2024-01-17,speech,Velazquez Inc,434.65,49,49282.7,34,Female,Josephburgh,Online,21297.85,6389.355
+cf405453-5a3d-41bc-89f8-97e601a870c9,2024-07-14,raise,"Fleming, Cooper and Wilson",624.74,77,52028.28,38,Female,Guerratown,Debit Card,48104.98,14431.494
+48e41a6b-8b57-485c-8481-eeecdafe93bd,2024-01-06,the,Decker Inc,1278.51,21,54799.2,20,Male,Port Roberta,Online,26848.71,8054.612999999999
+f88c5f0d-95bf-4307-ab62-d82e0d8afc9b,2024-05-09,good,Sawyer-Ramirez,613.3,37,16659.62,58,Other,Haletown,Online,22692.1,6807.629999999999
+d6382a39-a203-404b-b1e5-d8a695a61dbd,2024-07-07,baby,Morris and Sons,1056.74,18,110028.42,30,Male,Port Brandi,Cash,19021.32,5706.396
+7f8e937e-727c-4d29-9a2f-38b0d8f9e0c1,2024-07-23,outside,"Garrett, Schultz and Carlson",482.47,37,11306.68,38,Other,South Kimberlyfurt,Cash,17851.39,5355.4169999999995
+fc911d63-aa11-4767-b991-bfb928335565,2024-03-27,crime,Curtis-Collier,262.64,62,75988.7,24,Other,Port Andrew,Cash,16283.679999999998,4885.103999999999
+69fad209-6c1e-4ea7-9da6-46053b761f3a,2024-01-31,six,Jackson-Carroll,1237.37,27,80877.2,37,Male,New Susan,Credit Card,33408.99,10022.696999999998
+10991579-2c92-4a8f-b98c-3b7df2ce7fcf,2024-05-30,law,Schultz LLC,811.73,62,91113.25,41,Female,Port Nancyborough,Online,50327.26,15098.178
+74abb176-6ca5-45a2-9e7b-7e91c98aea78,2024-05-13,image,Cruz-Arias,422.33,80,37244.48,63,Male,New Jessicatown,Cash,33786.4,10135.92
+975126b2-9aa0-471d-98e6-96da12bec7c3,2024-01-19,begin,"Mason, Flores and Baker",312.37,84,29250.67,39,Other,Meganborough,Credit Card,26239.08,7871.724
+476e0069-fd66-4bb4-b68d-673ac4e3a141,2024-01-07,catch,Pitts-Valenzuela,1370.68,67,37928.58,35,Female,South Jessica,Online,91835.56,27550.667999999998
+56ad37f3-bb16-4f08-90ba-140b27eebd4a,2024-07-01,century,"Bates, Pearson and Hardy",1245.2,81,59695.92,34,Female,Thomasfort,Cash,100861.2,30258.359999999997
+5bad4d24-060c-4374-9855-fc134cbb0bef,2024-04-15,discussion,Perez PLC,423.8,40,104364.75,48,Other,Brianton,Debit Card,16952.0,5085.599999999999
+1f608363-d36d-4402-b4ea-2506fc8ad3fe,2024-06-03,beyond,Williams-Palmer,1141.1,85,15373.26,47,Female,Port Kelly,Online,96993.49999999999,29098.049999999996
+0f7be3d2-9fb3-47e6-9c3d-92aeb383dc0a,2024-02-01,enter,"Bennett, Foster and Moreno",518.67,80,11151.36,64,Male,East Michaelstad,Credit Card,41493.6,12448.08
+5a5ebad6-dab7-4388-9961-411136b68e27,2024-01-24,eight,Martin-Carson,1256.1,90,25697.72,26,Other,South Benjamin,Cash,113048.99999999999,33914.7
+6eb173bb-59a5-4e8b-a2bd-c974ef076134,2024-04-17,couple,Esparza-Baker,782.21,81,22860.8,31,Other,Port Rachelberg,Credit Card,63359.01,19007.703
+6037afa7-ad38-48f9-a89a-8751225d8471,2024-04-27,conference,"Galvan, Jenkins and Peck",1345.71,53,36468.77,19,Female,Davidmouth,Credit Card,71322.63,21396.789
+5936ab1a-4d81-4a61-9192-070ca7ef66f2,2024-07-24,her,Delgado and Sons,1273.26,9,13790.56,31,Female,New Benjaminview,Online,11459.34,3437.802
+de89421a-9aaa-4405-ac88-1a9cf27e759e,2024-02-09,hand,"Franklin, Cox and Lopez",1352.3,68,60232.5,62,Other,Rhondaland,Online,91956.4,27586.92
+2c093754-c464-4c40-a938-0db029bf05ff,2024-05-29,despite,Gutierrez Inc,413.08,72,18931.5,55,Female,East Willie,Credit Card,29741.76,8922.527999999998
+bfb6d335-4035-4224-90fc-f75d0dc6109c,2024-07-11,PM,"Boyle, Collier and Marquez",141.32,95,48936.55,33,Male,Mcneilside,Credit Card,13425.4,4027.62
+6dbfd9dd-7b8d-42c5-9976-c003fda4d172,2024-04-23,yet,Williams Ltd,998.82,89,67369.44,40,Male,Ashleybury,Online,88894.98000000001,26668.494000000002
+348fb25e-d4dc-4748-8db3-f1998e931e69,2024-02-08,answer,"Harris, Stevens and Hall",1136.87,17,32729.76,39,Male,Christensenstad,Debit Card,19326.789999999997,5798.036999999999
+b41b7729-d5b4-447d-a723-5f1113e834f8,2024-01-27,weight,Knight Group,251.06,64,82388.89,57,Male,Vincentton,Online,16067.84,4820.352
+b7db77db-9899-4f2b-a0bc-61929bd1e046,2024-01-09,determine,Robinson-Tucker,960.48,39,78794.1,39,Female,West Stephanie,Credit Card,37458.72,11237.616
+ad3d08cb-0802-4319-b0b6-920d513eef3b,2024-04-21,wife,"Lopez, Collins and Rosario",959.18,60,22439.35,40,Other,Lake Brandytown,Credit Card,57550.799999999996,17265.239999999998
+7d4ca499-dae4-4596-840a-8febe483356a,2024-06-03,from,"Colon, Phillips and Watkins",1158.35,32,16447.95,51,Male,Simonbury,Online,37067.2,11120.159999999998
+eb576501-bb6d-4acf-bd3e-1bf95320738d,2024-07-06,check,Peterson PLC,682.66,74,11304.04,47,Female,South Lorifort,Debit Card,50516.84,15155.051999999998
+b0a25cb1-9098-4721-9c6d-f4da0b93d7d0,2024-04-27,central,Miller Inc,281.6,66,21167.52,43,Other,East Mario,Online,18585.600000000002,5575.68
+93995cc4-4535-40b3-9ba0-f1a2b5f89f0f,2024-06-14,away,"Massey, Long and Nguyen",464.51,67,62075.44,52,Other,North Cameron,Debit Card,31122.17,9336.651
+39f18196-f2ca-4bce-bcea-d59214ef17aa,2024-01-16,cut,"White, Kirby and Cross",806.17,55,6951.3,32,Male,South Christopher,Debit Card,44339.35,13301.804999999998
+ee81d569-cce5-4651-9b8d-de1990ccc5f7,2024-04-29,pull,Cooper and Sons,448.12,26,6481.51,42,Male,East Jacobburgh,Credit Card,11651.12,3495.3360000000002
+f5598f5d-a410-4953-aa55-f02c4206c890,2024-04-14,eat,Martinez Ltd,505.85,40,3112.11,32,Male,East Nicholas,Credit Card,20234.0,6070.2
+49ee7bcb-01a3-4c71-9273-49d4afd465a4,2024-03-01,son,Anderson-White,1285.81,82,27464.7,44,Female,Port Williamshire,Online,105436.42,31630.926
+b942b3b3-537a-464d-bf2d-55a27576977c,2024-05-14,where,"Wilkerson, Suarez and Ayala",1243.41,70,7728.35,57,Other,Harperstad,Debit Card,87038.70000000001,26111.610000000004
+1593f027-9cc6-442a-86e5-573651d5baf3,2024-04-25,possible,Scott-Davis,850.08,36,20341.64,20,Other,West Chadburgh,Credit Card,30602.88,9180.864
+91ff54e8-ca22-443a-a2bd-0a12a40a0c05,2024-02-28,air,Moran Ltd,1039.85,79,123975.88,62,Female,Port Lisa,Cash,82148.15,24644.444999999996
+713aefc6-d6e8-4b47-bd27-2cd6f93bb1f8,2024-01-10,talk,Beasley-Bailey,842.01,78,10106.11,64,Female,North Melissamouth,Cash,65676.78,19703.034
+6e17deff-b435-4fd1-afb9-27aff2155c4d,2024-02-01,success,Johnson-Johnson,1368.15,66,135157.83,46,Female,Barronborough,Debit Card,90297.90000000001,27089.370000000003
+7ebd3c9c-21a9-48d4-802b-50b2ae3d74e6,2024-07-25,play,Cabrera-White,1358.1,83,30654.0,40,Other,New Christina,Credit Card,112722.29999999999,33816.689999999995
+670f78f5-7bc9-4906-aa60-d55946689c30,2024-05-19,also,Roy-Dalton,1150.87,29,82840.96,49,Male,Lake Laura,Cash,33375.229999999996,10012.568999999998
+806c0da1-0124-4543-b57a-db889254de76,2024-03-05,firm,Nelson LLC,580.86,83,3486.21,63,Other,North Georgeside,Cash,48211.380000000005,14463.414
+65faa24c-70cb-4f67-8b9f-b2ca4b19d8e6,2024-07-06,test,"Kelly, Esparza and Carson",1276.9,51,5840.64,50,Male,Timothyburgh,Online,65121.9,19536.57
+90857412-c0ac-4805-93be-2e68dbfe1cd8,2024-07-09,that,"Anderson, Huff and Sanchez",1119.15,25,88626.24,21,Male,Williamsstad,Cash,27978.750000000004,8393.625
+43f15613-86fd-4e47-b9eb-ab3624e4fe22,2024-03-04,design,Murphy Group,574.12,49,83887.86,63,Female,Kempborough,Online,28131.88,8439.564
+0c520dd7-c8b0-49ab-883f-fd48f3cd6603,2024-06-29,national,"Lloyd, Stone and Mcguire",1064.72,15,98794.42,50,Female,North Doris,Cash,15970.800000000001,4791.24
+99289813-a5e9-4d86-a7bd-a091705d6c59,2024-03-21,short,Martinez Inc,763.9,90,59466.0,48,Other,Leonton,Cash,68751.0,20625.3
+d18acfcc-76b3-444c-9fd6-98d7c1832f0c,2024-05-18,draw,Mitchell PLC,1239.52,68,31463.25,53,Other,Meyerland,Debit Card,84287.36,25286.208
+16960cd1-2989-4ae0-97e1-47db52d5e944,2024-02-25,share,Michael-Lara,975.91,11,101627.98,43,Other,Joelside,Debit Card,10735.01,3220.503
+99ea4ef2-dca1-42ce-9d65-99314b4bc2a2,2024-06-10,Democrat,Martin Group,627.75,78,19068.8,51,Male,South Leslie,Online,48964.5,14689.35
+bba99356-b0d9-4337-8659-880f9d219a66,2024-01-15,kitchen,Collins Ltd,896.28,74,49752.32,48,Female,Anitaland,Online,66324.72,19897.416
+2b5b4061-7c12-486a-8c74-5ecf8dcf8dd7,2024-02-04,future,Mills PLC,1493.63,7,11973.2,30,Other,Port Matthewborough,Debit Card,10455.41,3136.623
+75925e57-1225-49be-adc3-80d720faffa0,2024-01-08,modern,Lindsey-Strickland,1128.07,31,14147.84,36,Male,Ibarrabury,Credit Card,34970.17,10491.051
+eb9b679b-f20f-4c48-b3c8-213215f0c371,2024-02-10,pretty,Vargas-Perez,177.94,75,80244.08,42,Other,East Crystal,Cash,13345.5,4003.6499999999996
+5ff0beb0-db46-484e-a043-f81d64667adf,2024-06-05,leave,Walker-Daniels,920.56,93,32203.6,58,Other,Parkerhaven,Debit Card,85612.08,25683.624
+c17792ae-d323-4d3a-a640-749d7fe6e5de,2024-05-05,risk,Murphy PLC,818.84,58,9343.44,23,Female,Mariabury,Credit Card,47492.72,14247.816
+96845a93-75b3-4a60-b213-201181842f96,2024-04-16,skill,"White, Ford and Andrews",1360.71,84,65262.78,29,Female,Snowfurt,Online,114299.64,34289.892
+41639dd8-855f-4c88-95aa-7e805fa6b6ea,2024-07-04,first,Schultz-Baker,550.72,91,19900.5,23,Male,Port Sarah,Debit Card,50115.520000000004,15034.656
+2e531f19-941b-4e8c-83db-16ba3e5eca52,2024-06-22,with,"Bradley, Rios and Perkins",927.54,33,11307.2,20,Male,Chaneyberg,Credit Card,30608.82,9182.645999999999
+627b0d33-3c34-4dce-b71d-ed9f4501a2a9,2024-01-15,we,Harding-Thomas,959.13,24,37887.73,43,Male,Michaeltown,Cash,23019.12,6905.736
+6b8a98dc-b9c0-44e3-94da-b6a298984061,2024-03-24,science,Schmidt LLC,646.09,89,12122.0,40,Other,Williammouth,Online,57502.01,17250.603
+6861c654-0b7c-4f89-9800-ba2139474e9a,2024-07-13,west,Jones-Jones,826.54,92,2752.54,35,Male,Davisland,Debit Card,76041.68,22812.503999999997
+2950ee27-d120-4778-b606-11180541ee88,2024-04-22,available,"Perry, Thompson and Vargas",1411.76,39,51619.05,36,Other,New Shannonport,Online,55058.64,16517.592
+ce868ecb-e271-4b6d-ab3a-ce32f22cc95c,2024-04-15,ready,Bell Group,212.78,73,21183.48,43,Female,Mckinneyland,Debit Card,15532.94,4659.882
+a9973ffe-e4ec-40ba-912d-f3275a8cd0bf,2024-01-31,whole,"Porter, Leon and Reynolds",501.45,43,23275.8,33,Male,New Kyle,Online,21562.35,6468.704999999999
+fa38ff59-072e-41ab-b9b3-946fdb8c02a4,2024-01-08,lose,White Group,981.39,57,72410.03,38,Female,Lebury,Cash,55939.229999999996,16781.768999999997
+d3007fd2-b6fc-4d81-9b85-8b6d5acedf5f,2024-06-22,voice,Miller-Lang,759.37,61,33360.67,18,Male,Smithport,Debit Card,46321.57,13896.471
+5633dd9e-0ad3-455e-8b00-7236c2379e1b,2024-07-25,security,"Ware, May and Lopez",1485.6,68,51970.4,47,Female,Michaelland,Credit Card,101020.79999999999,30306.239999999994
+56dbc213-6328-4647-ba24-251ee088c5d0,2024-05-05,often,Harris-Melton,867.3,68,13649.94,63,Male,South Aaronview,Debit Card,58976.399999999994,17692.92
+5f34a754-1177-49b2-b5fb-44eb890040eb,2024-02-21,only,Simmons Ltd,164.03,76,21730.4,37,Other,Kingfort,Debit Card,12466.28,3739.884
+2b5d9df6-2ee7-4aee-b38d-d5f498b98d3b,2024-05-06,effect,"Cross, Myers and Mueller",992.06,93,13230.08,52,Male,Port Michael,Online,92261.58,27678.474
+faa3e726-8792-4560-8b2f-82d146d28088,2024-01-11,language,Tran-Johnson,942.27,36,44021.01,50,Other,Lake Jessica,Debit Card,33921.72,10176.516
+bbfee908-63f4-4369-9dbc-8fb6dd24b688,2024-01-12,question,Moran-Hunter,609.95,34,75107.67,57,Female,Johnstonfort,Credit Card,20738.300000000003,6221.490000000001
+3d1ee727-64ff-4d0d-a058-12fe9ea64176,2024-04-06,fund,Hickman Ltd,1458.61,25,8000.85,34,Other,Hardyville,Online,36465.25,10939.574999999999
+b39ecb5c-062b-4c87-ae77-e75b20957ba5,2024-05-03,million,"Barnes, Smith and Crawford",1171.07,80,72145.19,61,Female,Zhangstad,Cash,93685.59999999999,28105.679999999997
+8ad0efdf-b3be-4a5f-b2d4-f817a1b9ffd3,2024-01-22,cultural,"Merritt, Thomas and Patterson",382.59,46,7131.96,32,Male,New Kenneth,Online,17599.14,5279.741999999999
+4c5538ff-2daa-44a9-8e01-ddaadb865227,2024-06-25,economic,Hall Inc,1347.33,13,11139.93,55,Male,West Jodi,Credit Card,17515.29,5254.587
+d3be5eda-fcef-4578-8ded-4d66a517ebae,2024-06-10,stop,Franco-Sanders,454.88,86,7375.83,63,Male,Milesville,Debit Card,39119.68,11735.904
+09172814-b2b6-4732-9043-4821bf95df18,2024-06-24,heart,"Calderon, Barry and Roberts",1481.19,24,17456.45,45,Other,Lake Oliviaville,Debit Card,35548.56,10664.568
+8ae30ce2-3e1a-4225-b227-711200365273,2024-01-02,cell,"Johnson, Brennan and Thompson",1164.44,76,3946.14,54,Other,South Jeremyfort,Online,88497.44,26549.232
+70e0ce1a-e29b-4077-b397-a30a04d23eb9,2024-04-15,security,"Moreno, Dodson and Andrews",189.14,94,8071.26,51,Female,Port Angelahaven,Credit Card,17779.16,5333.748
+c1b09936-7b2b-4a6c-840d-de0acccb15c6,2024-05-09,down,"Ramirez, Duffy and Beck",595.16,99,55089.93,19,Female,North Heather,Credit Card,58920.84,17676.251999999997
+03a59365-5cac-4764-8e3c-dd0214000e9b,2024-01-03,election,Wilkinson-Anderson,1185.69,72,76989.42,57,Other,North Anthonymouth,Online,85369.68000000001,25610.904000000002
+958e721e-00d8-4835-8c0b-17d95d479490,2024-05-02,red,Hawkins-Russell,373.46,63,89134.12,63,Male,Crystalville,Cash,23527.98,7058.393999999999
+dea2020b-7b8d-4f9d-93a9-6e789e229434,2024-04-14,similar,Wilson-Beard,1045.12,90,84618.0,58,Female,Hortonport,Cash,94060.79999999999,28218.239999999994
+6c388ff3-e9ef-4e75-a11c-9d219b54c9f9,2024-04-08,allow,Bryant-Lewis,644.86,48,23593.15,32,Male,West William,Online,30953.28,9285.983999999999
+72f03d3c-6e0a-4b86-a79a-bd790354d02f,2024-05-22,probably,Bishop and Sons,457.28,75,23687.49,64,Other,Port Nicholasmouth,Cash,34296.0,10288.8
+53745a72-1cf1-45ad-a544-8ac93d79a45d,2024-02-02,people,Hill LLC,991.09,21,5891.46,49,Female,Katelynville,Cash,20812.89,6243.866999999999
+f390e720-a5e8-4631-8896-73ebe7eba12d,2024-01-05,give,Hendrix-Murphy,1122.88,19,27842.88,57,Female,Lake Shaneburgh,Debit Card,21334.72,6400.416
+aa4f7a70-e2eb-4297-80dc-9edb1dce47eb,2024-06-25,experience,Chen Inc,1224.24,13,2861.1,37,Female,East Kenneth,Online,15915.12,4774.536
+fdf59c83-bd14-459c-a73d-1c17b86a5a94,2024-01-13,effect,"Martin, Smith and Patterson",1317.86,84,8388.09,54,Female,Davisbury,Credit Card,110700.23999999999,33210.07199999999
+95c142ba-0be8-4f2e-a059-35d977aa122f,2024-03-08,space,"Baker, Martin and Saunders",796.46,83,23200.8,44,Male,West Andrewborough,Cash,66106.18000000001,19831.854000000003
+fa428d4b-c6e6-4892-a985-73db52035660,2024-05-26,land,Parker-Griffith,1148.23,85,34241.36,44,Female,Holmesmouth,Credit Card,97599.55,29279.865
+62aef48a-e964-4990-b237-f605bd26a50a,2024-01-02,theory,Wright and Sons,609.77,98,22882.8,20,Other,Webbton,Cash,59757.46,17927.237999999998
+e50290db-1725-4255-9fb6-a5e7a4d02d74,2024-01-23,prevent,Fuentes PLC,1252.52,77,61650.63,62,Female,Lake Douglasside,Credit Card,96444.04,28933.211999999996
+26af113d-1a08-4576-9a5e-f73fb4ccf307,2024-01-17,watch,Hess-Little,1036.75,60,9777.44,59,Other,South Ericmouth,Online,62205.0,18661.5
+53248dbf-0ce8-469f-8b78-2354a51af291,2024-02-03,democratic,Russo Inc,848.45,20,49001.22,28,Male,Vasquezland,Debit Card,16969.0,5090.7
+7c3f94c7-f8cd-496f-96b1-cb88a86a4efc,2024-02-18,hour,Marquez-Garrett,130.8,82,55404.25,59,Other,Ianview,Online,10725.6,3217.68
+8401765e-c534-458a-a54d-2c30d6c82dc7,2024-04-14,you,"Faulkner, Lewis and Armstrong",1083.43,81,47315.84,34,Female,Brooksfurt,Debit Card,87757.83,26327.349
+b50ec0f2-2015-4e5a-9cb6-d9ef7c786f00,2024-01-27,member,"Fernandez, Long and Nelson",1088.57,34,57562.77,20,Other,South David,Credit Card,37011.38,11103.413999999999
+13814056-0d13-4b0d-9f3a-4fdbe56970e8,2024-02-24,each,Martinez Ltd,604.9,84,9046.26,61,Male,South Rachelhaven,Cash,50811.6,15243.48
+69b2c3b5-5f54-486b-a760-f7f107cc268b,2024-02-09,piece,"Jones, Soto and Johnson",283.19,59,7037.22,54,Male,Kimberlybury,Credit Card,16708.21,5012.463
+be275e6f-2d88-4312-b505-9e45e1122e25,2024-02-15,those,Newman-Anthony,1371.75,57,13789.44,60,Male,Rubenton,Debit Card,78189.75,23456.925
+a9eca438-6092-42a7-8dcc-ed156122b875,2024-01-30,discuss,"Crawford, Spencer and Patel",1100.35,36,13985.76,41,Female,Gardnerport,Online,39612.6,11883.779999999999
+cbc1fe6c-aa9c-419f-8923-fa7545a09f2d,2024-02-16,meet,Jacobson-Arnold,388.45,81,141411.84,25,Female,Lake Amanda,Debit Card,31464.45,9439.335
+11b3a179-1654-4a20-a4d0-a7f4928228ce,2024-07-01,report,Smith-Williams,958.9,63,10445.28,57,Female,Port April,Credit Card,60410.7,18123.21
+75d025b3-f4e0-4634-af53-2498cae1e486,2024-07-18,key,Martinez Ltd,603.59,75,7232.88,32,Male,Wilsonland,Debit Card,45269.25,13580.775
+1001e19b-6c41-44a6-9531-364bec0df41d,2024-05-23,concern,"Smith, Short and Butler",299.33,90,12132.64,38,Male,Bruceside,Debit Card,26939.699999999997,8081.909999999999
+0b52899f-7eb1-4765-bd8d-09fcb822ea2a,2024-01-13,standard,Christensen-Daniel,246.8,50,12452.65,37,Other,Nataliechester,Credit Card,12340.0,3702.0
+e90823db-15d9-4085-a915-eb670a753520,2024-04-03,skill,Ferguson PLC,309.99,62,51159.36,51,Male,Stevenville,Debit Card,19219.38,5765.814
+6376cc08-360c-413d-b0c4-c3e7be554e4c,2024-01-24,organization,Ritter-Wilson,723.04,99,37316.7,22,Female,Rileymouth,Online,71580.95999999999,21474.287999999997
+c49a44ee-754b-4e61-9c39-fe097e17ee31,2024-07-25,very,"Wallace, Turner and Young",1250.45,8,10665.6,29,Male,Donnachester,Credit Card,10003.6,3001.08
+8267761e-d356-4f66-853b-2e88fb7bc293,2024-03-12,staff,Jordan-Norris,883.64,71,108035.82,20,Male,East Charlesview,Cash,62738.44,18821.532
+d940a808-1599-4ca5-ac39-4b7f877e3617,2024-04-11,whether,Peck Ltd,1047.17,19,7936.5,54,Other,South Jesus,Online,19896.230000000003,5968.869000000001
+c954212a-ef67-49a5-b571-ab2795434d7e,2024-06-27,compare,Nelson and Sons,1446.33,10,1345.31,36,Female,South Nancyville,Cash,14463.3,4338.99
+f8eb892d-5eee-4b32-8faf-bd99b10988d7,2024-03-01,sea,Padilla-Hernandez,319.74,49,9379.68,37,Female,Randallland,Credit Card,15667.26,4700.178
+a6b82704-11df-4078-997b-82a4be469444,2024-02-05,evidence,"Brown, Becker and Jones",983.28,96,45512.55,50,Other,East Nancy,Online,94394.88,28318.464
+3dd8bf17-bc97-47a7-b3c1-c5bfcd22ca2e,2024-01-27,behavior,Jackson-Hodges,661.38,84,83295.45,62,Other,Jeremyhaven,Online,55555.92,16666.775999999998
+04290823-41d8-41cd-88df-ef9f2646df0d,2024-06-24,produce,"Sanders, Snow and Harrell",1195.38,19,25157.0,28,Other,South Patriciatown,Online,22712.22,6813.666
+3949fd33-ae2e-4099-b7bb-ec0a8d0f5cc6,2024-07-15,network,"Wells, Harris and Bowman",1453.57,61,15346.38,48,Male,Websterland,Debit Card,88667.76999999999,26600.330999999995
+994fe2b7-b2b1-462d-b210-389e4839312c,2024-05-16,month,May-Williams,1483.71,41,21633.5,52,Female,South Bradhaven,Cash,60832.11,18249.632999999998
+a5efebcf-37a6-4ffc-81bc-46cf09be659c,2024-06-08,six,Warner Group,1210.29,13,16546.88,22,Other,Port Amandaview,Online,15733.77,4720.131
+1dbb7cad-7195-494d-8105-fa1ad6627992,2024-01-17,although,"Anderson, Atkinson and Garza",687.46,53,5901.2,56,Female,Lopezmouth,Debit Card,36435.380000000005,10930.614000000001
+2bcc91eb-ec74-46c9-9b32-bdd72c2899f0,2024-01-11,stage,Graham LLC,1030.8,17,18401.6,42,Other,Timothyville,Debit Card,17523.6,5257.079999999999
+07602482-1535-4857-b739-94bbfbbb2ef8,2024-04-05,property,Torres Inc,1285.42,91,16868.06,58,Other,Stacyborough,Credit Card,116973.22,35091.966
+fd2b2d90-a36b-4081-b951-c57e73d4210f,2024-02-11,avoid,Williams and Sons,1148.39,40,4905.84,61,Female,East Marcus,Debit Card,45935.600000000006,13780.680000000002
+aa4eddb8-b9a3-4f56-89f3-964b0d417867,2024-07-02,what,Hodge LLC,281.55,88,12448.36,61,Female,East Brianmouth,Cash,24776.4,7432.92
+d07abe20-338e-41db-834b-58178d558461,2024-04-29,follow,Peterson Ltd,644.01,50,8634.9,53,Female,Jasonchester,Debit Card,32200.5,9660.15
+0c877dea-f64a-4f75-8ccf-4dc7b70ba576,2024-04-09,amount,Reid-Gilbert,819.04,36,77838.75,52,Other,Lisashire,Online,29485.44,8845.632
+0998bacb-99c0-4bed-9e3b-c44036db1add,2024-06-07,a,"Glenn, Miller and Griffin",1460.33,65,47845.66,27,Female,Loganport,Credit Card,94921.45,28476.434999999998
+e9dffe4a-a5ed-4eb5-8f46-a40fc3296a41,2024-05-13,statement,Coleman-Brown,1070.26,55,5859.92,55,Other,East Lindsey,Cash,58864.3,17659.29
+13ebb7aa-97d8-473f-8cb1-ed72c9a517c2,2024-06-16,guy,"Garcia, Smith and Ramos",601.41,92,37407.44,18,Male,Debraview,Credit Card,55329.719999999994,16598.915999999997
+0f014686-70c9-4d07-b22d-6698ebe300ef,2024-07-09,environment,Walton Inc,855.95,25,23215.71,50,Male,Chavezmouth,Debit Card,21398.75,6419.625
+46e654f0-15f7-4b65-a260-a62d42b93ee5,2024-07-20,leave,Edwards Group,364.45,94,54995.76,31,Female,South Markland,Debit Card,34258.299999999996,10277.489999999998
+c8e2c134-4cd4-409a-94b3-88ceb92499c9,2024-03-11,teach,"Smith, Terry and Obrien",811.59,59,1243.23,40,Other,New Erikstad,Credit Card,47883.810000000005,14365.143000000002
+ca860381-dbbe-46c7-b33f-0940ed47539c,2024-04-02,half,"Phillips, Foster and Maynard",898.28,79,49230.39,42,Male,West Lisa,Cash,70964.12,21289.235999999997
+5162e904-aa16-4967-9471-d242b21d3246,2024-04-17,anyone,Jackson Inc,507.13,57,18721.2,47,Male,Rodriguezbury,Credit Card,28906.41,8671.922999999999
+4d845f59-aa2a-4c0e-af74-e33c99bd808d,2024-07-17,remain,"Ross, Clark and Webb",404.89,46,31240.3,50,Female,Mauriceside,Credit Card,18624.94,5587.481999999999
+ca6fc922-7283-4224-9451-925794198526,2024-06-14,change,"Turner, Kim and Leonard",1018.82,25,81367.36,41,Female,Port Tami,Credit Card,25470.5,7641.15
+32efcd0a-9382-4773-997d-d5f484be58a5,2024-03-16,minute,"Hamilton, Romero and West",1231.35,34,50171.97,63,Female,West Tiffanyton,Cash,41865.899999999994,12559.769999999999
+525adf1e-5161-4617-8c08-05fb5f44acc5,2024-02-11,detail,Becker LLC,810.9,58,31039.47,50,Other,New Ryanshire,Online,47032.2,14109.659999999998
+07beae71-143c-49d6-9611-eef5c948596a,2024-07-19,see,Kelly PLC,1060.85,53,21440.16,37,Female,Thomasmouth,Cash,56225.049999999996,16867.515
+e4b51b1a-b885-4e78-8aa9-77c1d7fba1d2,2024-03-10,matter,Mcguire-Sanders,883.09,16,42980.88,19,Other,South Christopherhaven,Credit Card,14129.44,4238.832
+828b43aa-4486-43e7-b706-1dd8aa97e368,2024-01-25,school,"Drake, George and Davis",985.02,24,44499.0,47,Other,Johnathanshire,Cash,23640.48,7092.143999999999
+492e27be-a5dd-4bdd-a3ca-64a0a880494e,2024-06-14,west,Chandler-Palmer,1157.78,66,1250.11,27,Other,Port Abigail,Debit Card,76413.48,22924.043999999998
+403097e4-e1de-4ac5-8a96-91db6e298417,2024-06-05,house,Williams-Smith,1074.85,39,98677.6,24,Female,Lake Debbieton,Debit Card,41919.149999999994,12575.744999999997
+054b42a7-02d8-42c5-bd34-8faaa0ab2b38,2024-05-02,result,"Jackson, Collier and Barber",1316.82,69,43512.3,36,Male,North Rachel,Credit Card,90860.58,27258.174
+8387a168-4638-412f-8721-9ceebeba72fe,2024-03-04,example,Hill Ltd,608.12,29,28498.3,42,Male,New Lisaville,Credit Card,17635.48,5290.643999999999
+19f710fc-8045-441d-b796-c40779f245a7,2024-03-26,country,Ayers and Sons,589.1,39,52519.04,27,Male,Hawkinsberg,Online,22974.9,6892.47
+a1c23386-aa43-4d7b-b657-6edfec9c41dd,2024-03-13,many,Holland PLC,357.98,65,67292.01,32,Female,East Elizabeth,Cash,23268.7,6980.61
+f1a93cad-3d16-4355-b736-da49537ebcbf,2024-04-01,discover,"Hill, Thompson and Anderson",1297.35,18,1410.6,62,Male,Jamesmouth,Cash,23352.3,7005.69
+673ba242-77f0-4978-8a16-d8f590cf8be3,2024-05-04,until,Hunter-Richardson,944.16,47,78747.4,23,Other,Jamesstad,Credit Card,44375.52,13312.655999999999
+7c3698c3-6a95-43d3-a1ad-3952122e9fd8,2024-07-01,discussion,Wallace-James,1376.5,17,21012.16,57,Male,New Desireeborough,Credit Card,23400.5,7020.15
+6973ba4a-ae31-48eb-a39a-60785995aa87,2024-04-22,including,Gomez-Burns,1138.9,64,19171.88,31,Other,Ryanville,Cash,72889.6,21866.88
+74df89fb-b693-457d-a68e-e017937d9fe0,2024-03-20,middle,"Cooper, Mcclain and Cook",1276.97,85,119864.64,50,Female,West Alice,Debit Card,108542.45,32562.734999999997
+55c31dcf-ac9b-4f36-913b-ef4b4499cb04,2024-06-11,political,Johnson LLC,1158.59,41,91244.02,25,Female,Port Peter,Credit Card,47502.189999999995,14250.656999999997
+f03a7387-8482-420c-9834-bbfa6b71c99a,2024-01-18,simply,"Thornton, Fisher and Santiago",1239.85,20,67192.66,34,Male,Michaelland,Cash,24797.0,7439.099999999999
+6a247345-d175-4039-abe6-b0cd5251c4f8,2024-04-18,less,Marsh and Sons,1167.79,68,55321.56,53,Other,Bestmouth,Online,79409.72,23822.916
+c0acdcf6-4491-4036-8ba2-976917f14b7a,2024-03-24,heavy,Rodriguez Inc,339.26,56,58377.96,59,Female,New Briannaview,Debit Card,18998.559999999998,5699.567999999999
+59356bb9-9b3f-481d-ae3c-1fa40d937c0a,2024-06-10,news,Strickland and Sons,1096.95,24,89145.18,35,Female,Cherylland,Online,26326.800000000003,7898.040000000001
+9bb46792-867e-42a4-8fa8-e5a9fcd85d68,2024-06-30,oil,Mason-Ramirez,1251.71,36,3803.2,20,Female,Port Michaelchester,Cash,45061.56,13518.467999999999
+fc68ca0c-4cbb-457e-a151-b816b35570ee,2024-01-01,certain,"Jones, Johnson and Vasquez",655.7,79,34762.47,61,Other,Vaughanville,Cash,51800.3,15540.09
+8b44fb5e-c29f-46a6-bb47-8227ef4389b6,2024-03-01,lot,"Holmes, Ramos and Hoffman",805.15,68,15655.6,58,Female,Smithton,Cash,54750.2,16425.059999999998
+c77bb8a7-d4dc-4e94-b544-ecd31ec0724a,2024-03-14,pass,"Curry, Richards and Lane",781.03,56,8111.04,51,Female,West James,Debit Card,43737.68,13121.304
+8c57c016-b6cd-45da-99e2-8ec77c66e70c,2024-03-27,include,"Decker, Smith and Wilson",1264.82,72,36931.16,42,Other,East Samuel,Credit Card,91067.04,27320.111999999997
+65aaa96d-775f-40e2-a1ab-61018fba5699,2024-03-22,human,"Davies, Thomas and Brooks",255.97,74,29994.53,56,Other,Oconnorside,Debit Card,18941.78,5682.534
+1134c78c-d1e1-42a0-bc54-fcc7eb2fcf30,2024-03-11,face,"Nunez, Jefferson and Glover",987.65,89,21580.78,40,Female,Jesseside,Cash,87900.84999999999,26370.254999999997
+66cb6c15-5841-4162-8898-a1ed0da02475,2024-07-25,war,Smith PLC,873.85,71,19372.4,57,Other,West Kevinville,Credit Card,62043.35,18613.004999999997
+3dfd0adc-16bf-4fe1-bbc7-79ee5541eace,2024-02-26,it,Holmes-Rivera,437.73,79,3537.16,57,Female,North Lydia,Cash,34580.67,10374.201
+3b05d54f-0bdf-444c-a021-19e842585d6b,2024-05-28,involve,Figueroa LLC,1184.54,89,23249.54,32,Female,South Melissa,Online,105424.06,31627.217999999997
+091d95be-3355-4946-a472-462ae54f959a,2024-03-24,them,Greene-Baxter,972.1,47,73044.99,36,Female,New Jonathonview,Online,45688.700000000004,13706.61
+52ca3f6e-4891-4311-bead-8bf9150c1d58,2024-01-08,term,"Jenkins, Jones and Jenkins",846.09,23,11133.4,42,Female,North Kristinafort,Debit Card,19460.07,5838.021
+2d8c5839-74ea-42ab-9ba7-3f96d96efd87,2024-01-28,member,Christian-Velasquez,865.64,29,51904.36,48,Other,Ambershire,Online,25103.56,7531.068
+73a33eac-425b-4f9a-b864-0ace26cf641e,2024-01-15,address,Mccoy-Stevenson,1154.25,51,30889.35,19,Male,South Keith,Cash,58866.75,17660.024999999998
+b5f47409-3c2c-4e1b-8886-9718c7ffb56a,2024-05-30,executive,"Galloway, Gutierrez and Vazquez",494.84,72,16306.56,22,Female,Port Bonnie,Debit Card,35628.479999999996,10688.543999999998
+963677f8-ebd9-4a9c-a90e-a17d3c479fde,2024-05-10,receive,"Long, Hughes and Gallegos",348.43,44,15365.12,23,Other,East Brianborough,Online,15330.92,4599.276
+b09fb488-824a-416d-8800-bbd06fd3530e,2024-02-07,nothing,"Miller, Hill and Lawson",1278.82,91,61818.67,49,Female,Thomasview,Credit Card,116372.62,34911.786
+26b17d9b-6e2e-4fcf-ad79-e37c5ff0467d,2024-01-13,media,Davis Group,719.28,40,18261.0,28,Male,Port Jeffrey,Cash,28771.199999999997,8631.359999999999
+da4115cc-24fb-4ca6-835c-6eeaf8d03cf2,2024-05-27,mention,"Skinner, Ramirez and Kelley",1486.29,68,39261.45,63,Male,Herreraborough,Cash,101067.72,30320.316
+97b019b5-ee7f-47bb-a9fe-8a23c0ca4b55,2024-05-11,woman,Williamson-Clay,1378.49,80,10696.96,22,Female,Christopherbury,Debit Card,110279.2,33083.759999999995
+a69e032c-d28a-4735-a6af-c9f5db2e6b31,2024-06-06,course,"Pearson, Jackson and Fox",833.19,18,46234.37,23,Female,Port Annetteport,Credit Card,14997.420000000002,4499.226000000001
+d4321274-0ab9-4a54-8e7a-9af36df90d66,2024-06-01,always,"Bryant, Davis and Eaton",370.28,39,23015.02,24,Other,Dianaburgh,Cash,14440.919999999998,4332.275999999999
+12232bda-526c-4053-be4d-816ec2c06ade,2024-02-17,provide,Jennings-Leon,1307.36,18,43269.12,18,Male,South Kyliemouth,Cash,23532.48,7059.744
+47ff7ab5-cd5b-416e-b6ca-d50ebd4aa98c,2024-02-08,blood,Lamb Inc,563.7,77,10533.07,23,Male,Sweeneystad,Cash,43404.9,13021.47
+67566b07-1259-49f3-b9f7-cdcfff0f3021,2024-04-22,keep,"Oconnor, Jacobs and Wise",1211.87,78,43710.92,45,Other,Walkerborough,Debit Card,94525.85999999999,28357.757999999994
+0cc43991-586c-4734-94cc-ff0163883c1f,2024-04-15,situation,Stein-Bridges,1426.72,84,94828.04,41,Male,Espinozamouth,Online,119844.48,35953.344
+69daa6e4-ba51-43c3-8223-536683b2c239,2024-05-16,wear,Singleton Group,546.44,28,110721.6,51,Female,Lake James,Online,15300.320000000002,4590.0960000000005
+4410f64d-c85f-42d1-9e24-eff6432b3d79,2024-02-04,high,Marshall Inc,1387.12,31,19020.25,22,Male,Allenton,Credit Card,43000.719999999994,12900.215999999999
+cec49393-39df-4d28-8643-beda3dc102e5,2024-06-23,every,"Peterson, Franklin and Bender",299.51,83,22944.0,55,Other,Diazland,Debit Card,24859.329999999998,7457.798999999999
+09b8b969-d48d-413a-9587-bc8e11436149,2024-01-01,week,Morales Ltd,1037.17,40,16283.85,35,Male,West Diane,Credit Card,41486.8,12446.04
+fe80a264-a2ac-45ae-80ea-c67c6ba9a045,2024-04-25,garden,Brennan-Vasquez,185.13,82,7505.82,48,Female,Natashaburgh,Debit Card,15180.66,4554.197999999999
+4da8fa81-5c67-47c7-b3d2-266e78e9afa9,2024-07-13,improve,"Pittman, Williams and Mejia",573.99,54,20112.64,24,Other,South Jenna,Online,30995.46,9298.637999999999
+8ad0e919-f478-4f24-99f0-57853b23a202,2024-03-24,her,Wallace-Prince,566.73,43,5598.97,20,Male,North Steven,Credit Card,24369.39,7310.817
+857e8ec4-6502-4ef5-b95c-c4f249ed055a,2024-01-07,fly,Pham and Sons,921.44,97,59727.13,20,Other,East Joseph,Online,89379.68000000001,26813.904000000002
+7693996d-41f7-4434-b4b9-26faf2537100,2024-06-24,every,"Nielsen, Rivera and Jones",1151.12,41,9768.66,55,Other,Meganburgh,Debit Card,47195.92,14158.776
+7d2d67fc-835c-48f1-9edd-8537d9fefc7e,2024-05-25,put,Bradford-Poole,473.48,59,67975.16,45,Male,Dennischester,Online,27935.32,8380.596
+875d9ea7-2e3b-460e-9ad1-24afba4d1d9a,2024-06-17,thousand,Carter PLC,1449.84,67,48296.02,29,Male,Lake Jamie,Online,97139.28,29141.784
+5b88ab1e-fb86-4e1f-8cb2-0a2b2b5175c1,2024-01-05,tough,Thomas-Alexander,1108.08,42,15130.4,19,Female,South Matthew,Credit Card,46539.36,13961.807999999999
+dc608773-0894-4c92-bf99-3540452ce04f,2024-04-29,choose,Adams-Sanchez,911.36,85,21926.52,38,Other,Joshuaport,Debit Card,77465.6,23239.68
+30af2d71-9a68-4991-95af-89cafcf55d09,2024-04-29,heart,"Russell, Watts and Wade",1182.85,82,13331.16,19,Female,New Justin,Credit Card,96993.7,29098.109999999997
+f26a4e4f-7e9e-481e-a594-fede2d967ec5,2024-04-06,light,Gonzalez-Horn,483.26,29,83365.65,37,Other,Charleschester,Online,14014.539999999999,4204.361999999999
+715060e8-9a75-4ba6-9ff2-ebd2fc19c56f,2024-06-05,marriage,Graham Ltd,479.44,60,34638.33,46,Female,West Rickychester,Debit Card,28766.4,8629.92
+8a020b59-0bf5-4548-8b12-0380b5d1a25f,2024-02-25,wall,"Lee, Simpson and West",437.56,33,67249.2,31,Other,Kellerhaven,Debit Card,14439.48,4331.844
+0a2ea933-d97c-47c9-8967-ee955688d891,2024-01-19,education,"Gonzalez, Lowe and Robinson",872.16,20,11057.97,42,Female,South Bruce,Online,17443.2,5232.96
+17554e04-06b9-4c1b-9e9a-fbf25692f734,2024-06-22,would,"Cameron, Hughes and Lara",965.18,37,56761.49,27,Female,West Joshuabury,Cash,35711.659999999996,10713.497999999998
+5b971458-ca8d-4320-b8dd-fa1cd0d3f733,2024-07-15,why,Martin-Morales,434.12,30,86497.11,53,Other,Buchananstad,Credit Card,13023.6,3907.08
+4f9b0ffa-7eff-4e71-82df-f386d3c6d7cd,2024-07-08,eat,Wilkinson-Reyes,1217.5,63,67889.27,56,Male,New Annetteport,Debit Card,76702.5,23010.75
+45d2ad88-0e27-477f-9a74-3990ebd65838,2024-06-14,drug,Hall LLC,249.49,55,12647.34,33,Other,North Donnaborough,Debit Card,13721.95,4116.585
+995793a5-c08a-4096-936c-fd3a44030712,2024-04-13,mind,Garrett Group,681.33,92,15851.88,26,Other,West Jamestown,Credit Card,62682.36,18804.708
+5e89e980-d3c1-47ef-9fd4-c2117f5d3baa,2024-06-29,approach,"Thompson, Johnson and Smith",298.02,54,22501.97,24,Male,Lake Melissashire,Credit Card,16093.079999999998,4827.923999999999
+d24e4773-7a2d-4a74-8f68-abccc3bbe00f,2024-07-09,group,Bailey-Davis,733.08,95,62334.0,44,Female,East Deborahfurt,Online,69642.6,20892.780000000002
+ca18ad10-f78b-4885-abed-548b2298ece2,2024-02-20,interesting,"Morales, Hansen and Colon",877.61,13,86006.4,44,Female,Dorseytown,Credit Card,11408.93,3422.679
+7df13af7-873c-4afb-b644-9f9ecf79410d,2024-07-17,statement,Ross PLC,1426.34,33,60742.36,22,Female,East Nicoleton,Credit Card,47069.219999999994,14120.765999999998
+7b0cb646-6dc6-4c1d-85d6-75e2701cb1c9,2024-05-19,out,Mayo PLC,1168.22,75,12914.8,63,Female,Phillipsmouth,Credit Card,87616.5,26284.95
+638750d6-c86d-45b8-b18a-a132e1988791,2024-03-23,end,"Wilson, Wilson and Smith",1474.5,59,66215.85,57,Other,Emilyburgh,Cash,86995.5,26098.649999999998
+bbf10f68-d604-45be-aabe-e39d85e0ff20,2024-04-25,develop,Valencia and Sons,726.99,65,1097.22,59,Female,Amyberg,Debit Card,47254.35,14176.304999999998
+1596f411-95d1-4f54-b075-0a0d87c0d57a,2024-05-16,organization,Hernandez PLC,911.58,66,72555.5,49,Other,Nelsonside,Debit Card,60164.280000000006,18049.284
+08b85588-5809-4126-9821-dbf5701f4c7a,2024-01-11,then,Ball-Clay,1209.12,30,8256.05,36,Female,Santiagoland,Online,36273.6,10882.08
+31822680-e4e6-4e08-a8e1-c9d5ae3de134,2024-06-30,weight,Wiggins-Wallace,537.73,91,2620.83,32,Male,Walkerborough,Online,48933.43,14680.029
+44d5295b-e51c-4434-9320-32f3e4a2bd64,2024-03-08,the,"Cobb, Duffy and Roberts",170.33,95,10271.2,32,Other,Clarkburgh,Online,16181.35,4854.405
+1154c6ec-e1aa-4533-a2a8-1d8acc0fda56,2024-03-08,reality,Brown Inc,1118.72,89,93600.0,25,Other,West Michaelberg,Cash,99566.08,29869.824
+206b48f0-cbbf-4547-ad60-849249669848,2024-02-16,skill,Cole and Sons,530.21,46,48768.0,45,Male,West Desireefort,Online,24389.660000000003,7316.898000000001
+da032253-d5ac-4572-8c81-a4d378b5ff39,2024-01-04,seat,Baker and Sons,1435.0,12,131512.48,27,Female,Erinside,Online,17220.0,5166.0
+af77dbfc-d717-4682-a596-4cad1d7c55cf,2024-05-20,fine,"Mcknight, Moody and Mason",943.28,91,69770.9,44,Male,Lake Jesse,Credit Card,85838.48,25751.543999999998
+a5931296-6638-4474-8150-84549ed0fffa,2024-01-18,mouth,"Price, Carpenter and Adams",519.46,82,18697.84,21,Other,New Katherineland,Cash,42595.72,12778.716
+92a1d414-740c-450f-9532-af4cc548d97d,2024-03-26,explain,Smith-Barr,767.55,70,128442.12,47,Male,New Stephanie,Debit Card,53728.5,16118.55
+0212c598-4e8f-4eee-83a4-46044afc035d,2024-05-21,foot,Wheeler-Summers,1411.66,56,15171.6,27,Other,East Kimberly,Cash,79052.96,23715.888000000003
+7f1a08ed-7ba5-4eb8-bf54-f02ad812679f,2024-04-25,fight,"Washington, Burns and Li",636.1,49,414.6,20,Male,South Joshua,Debit Card,31168.9,9350.67
+3a549b06-f14f-4b50-9c3f-3aa619e632ed,2024-07-19,world,"Rodriguez, Adams and Smith",554.03,85,6268.6,29,Other,North Joseshire,Cash,47092.549999999996,14127.764999999998
+4168d51e-ca86-483e-9591-ff2172756a79,2024-06-22,decade,Walter-Lynn,1204.69,26,84222.45,32,Male,Port James,Credit Card,31321.940000000002,9396.582
+0dc24452-36a1-41da-9dc7-e4676b6df2c7,2024-01-04,positive,James PLC,1037.32,26,25132.58,53,Female,Lake Shawntown,Credit Card,26970.32,8091.096
+68411452-c7dc-4692-93b2-7d473e876951,2024-04-01,president,Mata-Burns,971.16,86,100943.96,45,Female,South Nicole,Credit Card,83519.76,25055.927999999996
+02c2544c-36f1-405b-ade0-5b5725b91e35,2024-01-02,girl,"Salazar, Myers and Mcmahon",1164.58,67,10010.51,57,Other,Kaitlinhaven,Credit Card,78026.86,23408.058
+ec209b88-ea96-4acb-82c2-74a23e69e271,2024-01-19,choice,Little-Perez,256.42,67,1198.56,63,Male,Leonardfort,Cash,17180.14,5154.0419999999995
+97eeef8c-56dd-47b9-b9d9-b26ad38c0cc6,2024-01-15,prevent,Smith-Stokes,420.81,75,50439.99,53,Female,Ashleytown,Credit Card,31560.75,9468.225
+3f591e8b-fd26-4d8e-9556-2ce32355437e,2024-02-26,one,Cain Group,443.56,85,109351.08,47,Other,Barrettberg,Online,37702.6,11310.779999999999
+0964c272-102f-4bd9-b9e1-4535b8348809,2024-04-02,sure,Glenn-Fernandez,166.05,72,45433.44,33,Male,Schneiderchester,Cash,11955.6,3586.68
+09f74743-03f6-412d-99e7-b7c8c8f2ce69,2024-04-09,financial,Moore Ltd,874.01,43,23617.16,51,Other,North Michael,Online,37582.43,11274.729
+abefc58d-71bd-4773-97c9-327c91d8c95f,2024-01-23,when,"Potter, Bailey and Turner",1137.26,80,22211.4,35,Male,New James,Debit Card,90980.8,27294.24
+977263fa-3ed6-4d8b-93de-0265a75e9bc6,2024-05-24,begin,Cooley-Reed,901.21,88,12305.92,63,Female,Jameston,Credit Card,79306.48000000001,23791.944000000003
+8d5dc29d-6bf1-4c18-9156-9f8cde7f4f39,2024-02-23,many,Peterson and Sons,269.43,91,92400.11,20,Other,Nealmouth,Debit Card,24518.13,7355.439
+b611c79c-47a1-48af-8e12-3fe21f1ed9fc,2024-02-04,seven,Brown-Solis,1158.16,65,4371.12,60,Other,South Elizabethside,Cash,75280.40000000001,22584.120000000003
+addad3bd-167b-419c-9cfe-9af6ca953e33,2024-04-04,mission,Wilcox and Sons,547.67,81,53258.79,27,Other,West Jessica,Debit Card,44361.27,13308.381
+dc49e206-211f-4175-84a2-44b7ee4b46de,2024-03-16,leg,"Howard, Wood and Rosales",534.44,46,10318.95,45,Male,Edwardstad,Credit Card,24584.24,7375.272
+07097620-54aa-4e73-9024-c51380f3deca,2024-06-22,base,Aguilar-Scott,1019.36,55,43002.08,33,Female,Sharonberg,Cash,56064.8,16819.44
+b11232a4-bb33-4114-9d2e-9d3447594402,2024-03-01,time,Garrett Group,965.45,81,13717.3,33,Male,East Andrew,Cash,78201.45,23460.434999999998
+9398a206-71cd-46ff-acd1-d99ebb1ed058,2024-03-04,look,Wilkins-Price,1277.62,51,29912.75,62,Other,Jessicaside,Credit Card,65158.619999999995,19547.586
+9e882c68-34f4-4e1a-9f82-91a3597967b0,2024-03-16,wall,"Evans, Taylor and Peterson",364.81,43,39749.53,22,Other,Norrisville,Credit Card,15686.83,4706.049
+d1a83740-a873-4b21-9dda-ff391ec5acd6,2024-05-24,yes,"Nunez, Porter and Bell",536.8,85,33832.47,37,Female,Lake Joan,Debit Card,45627.99999999999,13688.399999999998
+746e2d69-e2f6-4a37-8315-8f5443a85e7d,2024-01-09,establish,"Brooks, Rodriguez and Knight",264.68,68,46066.26,54,Female,Olsenview,Debit Card,17998.24,5399.472000000001
+4312a164-7bcf-4c11-ac62-c915889ebb22,2024-06-10,loss,"Willis, Watson and Monroe",870.58,99,103732.2,61,Male,Markland,Online,86187.42,25856.226
+7d1a4cb8-61c4-491a-b089-fd0f95f0d3b5,2024-07-24,year,Taylor-Keller,356.09,68,108538.59,44,Male,Timothyland,Credit Card,24214.12,7264.236
+716ca483-6e73-457c-95fa-d3f22a2a7c7e,2024-07-01,she,Ruiz LLC,1211.43,19,25097.8,25,Other,Williamstown,Cash,23017.170000000002,6905.151000000001
+56ba6e3e-8414-4518-a664-01027cc427da,2024-06-10,kid,Richardson PLC,884.15,70,22057.2,22,Other,East Toni,Online,61890.5,18567.149999999998
+9eae19c3-5353-4d1a-b557-73080cfa4100,2024-07-07,hair,"Jones, Phillips and Mckinney",894.2,95,60854.66,46,Female,Martinfurt,Credit Card,84949.0,25484.7
+316ae676-2311-46eb-84b1-088dfeeb19dd,2024-02-04,back,Boone PLC,1203.42,59,100974.48,53,Male,Port Erin,Online,71001.78,21300.534
+cbafd54c-f2a1-486e-9662-5dec2835c70b,2024-07-09,everybody,Webster-Sullivan,580.56,34,76046.4,55,Male,New Joshuashire,Online,19739.039999999997,5921.711999999999
+5881ec91-b302-4feb-a392-2bb0fa0c2972,2024-04-11,stage,Escobar and Sons,426.56,99,102789.36,55,Other,West Beth,Credit Card,42229.44,12668.832
+e3b45f0a-999b-4aef-947e-2015fbb4c651,2024-04-25,win,"Vincent, Oneill and Bryant",479.02,60,31592.7,60,Female,Lynnside,Cash,28741.199999999997,8622.359999999999
+2e558988-3b2e-4760-acbf-4ace0dd23545,2024-07-21,type,Becker-Smith,356.01,42,85326.15,64,Other,East Toddtown,Cash,14952.42,4485.726
+8ba5d8f3-2b85-42a4-a929-ff7ceacfb7dd,2024-06-27,try,"Morris, Gay and Spencer",325.12,44,107022.69,19,Female,New Alicia,Debit Card,14305.28,4291.584
+30f86f86-11d6-495d-8d38-dfd5dcb03c3a,2024-03-28,despite,"Kelly, Velasquez and Dickerson",1143.91,83,24352.46,29,Female,Port Tammyberg,Cash,94944.53000000001,28483.359000000004
+f9b0ec5d-3468-40ab-b4b9-fc2464fbcab3,2024-05-17,service,Coleman LLC,163.19,82,116998.2,41,Other,Lake Sheila,Debit Card,13381.58,4014.4739999999997
+b515cddd-d4ba-4f43-9b07-291771c1e0a1,2024-02-27,fund,Bradshaw Inc,619.85,95,43773.17,48,Male,North Kennethmouth,Online,58885.75,17665.725
+180ccf5c-ce50-4f7b-9290-eaa589d233c0,2024-01-30,start,Noble Group,887.6,54,94528.0,37,Other,Port Mark,Debit Card,47930.4,14379.12
+2b7d6cfd-afdb-4dfb-8355-e81d64b5c38b,2024-03-22,benefit,Jones-Gross,443.05,95,93157.68,47,Male,Lake Diana,Debit Card,42089.75,12626.925
+271ea241-ee6b-425a-b5d6-5b9fcf2830cb,2024-04-02,sort,"Roth, Franklin and Hernandez",157.5,87,35169.4,55,Male,Nicolestad,Online,13702.5,4110.75
+4accedb9-a944-4a06-a9eb-fdbbd1b7ca78,2024-03-17,seven,Brown Group,463.3,34,6995.15,19,Female,Ericstad,Credit Card,15752.2,4725.66
+4b29f834-10c4-4f1a-9b7b-b2a240232a14,2024-06-04,someone,"Norman, West and Mata",1066.94,81,3489.54,22,Other,Rayville,Cash,86422.14,25926.642
+8084578e-c7f4-4a77-9177-22e62a1f2ebf,2024-04-09,born,"Lee, Rodgers and Jordan",739.42,54,6243.01,43,Other,Jamiefort,Debit Card,39928.68,11978.604
+5c03c53e-d4d0-4e42-873c-cc257f3cd195,2024-01-04,should,"Larson, Ruiz and Beasley",1128.1,69,35773.01,55,Other,South Daniel,Credit Card,77838.9,23351.67
+8ef34b73-27a5-4791-b837-3eb962a9fe0d,2024-05-06,physical,Hernandez and Sons,784.93,65,31601.89,29,Female,Devinfurt,Debit Card,51020.45,15306.134999999998
+eb326aaa-f7d6-46a0-b20b-6f80dca555b5,2024-03-21,could,Hodge-Perry,520.93,51,68274.0,62,Male,New Samuel,Debit Card,26567.429999999997,7970.228999999998
+e41b3943-d8e1-4208-9df5-af3f34b2c70e,2024-02-13,treat,"Johnson, Figueroa and Jones",1085.52,38,113673.2,36,Female,North Manuelshire,Online,41249.76,12374.928
+0c84d254-8e66-4a1b-bf6f-7e069ebb719a,2024-01-06,case,"Bailey, Roy and Barnes",193.77,74,125672.92,23,Other,Lake Randyfurt,Debit Card,14338.980000000001,4301.694
+821fa086-7197-4c69-9733-1dcc939af665,2024-04-06,sing,Cobb LLC,1178.88,89,33021.82,53,Male,Jimchester,Online,104920.32,31476.096
+6964a993-f882-40a0-9e12-15db2c984b42,2024-04-23,receive,Miller-Cortez,508.76,76,48081.0,27,Other,Marquezstad,Debit Card,38665.76,11599.728000000001
+c76b0a01-44a9-437e-9c7c-9d65351ef2b0,2024-01-27,everything,Obrien-Arnold,208.32,75,17747.2,37,Female,Matthewburgh,Online,15624.0,4687.2
+f1c8e141-fac1-4a19-bc49-2b1397241bd5,2024-05-20,dark,Gallagher-Campbell,887.06,60,11017.35,62,Male,Jeanmouth,Credit Card,53223.6,15967.079999999998
+72d249fb-c62e-4894-be5f-81f157fcfd2f,2024-05-07,home,Payne Group,1041.67,13,99522.36,51,Other,North Scott,Credit Card,13541.710000000001,4062.513
+fdd350a0-77de-454d-af2d-d1533913542a,2024-05-16,like,"Kim, Ortega and Jones",849.64,25,12814.43,32,Female,Lake Debbie,Online,21241.0,6372.3
+c07fff34-92b2-42e0-982b-6dd160b071e1,2024-04-02,operation,"Duncan, Mendoza and Mcdowell",1477.14,90,66427.94,51,Other,South Brandon,Debit Card,132942.6,39882.78
+4725f44c-24e7-4e79-807e-965e5aea8f9c,2024-01-17,him,"Cooper, Johnson and Townsend",221.85,98,22836.78,31,Other,Phyllistown,Online,21741.3,6522.389999999999
+c3a05db4-39a4-420d-9c2f-d21d2b81219a,2024-06-29,attack,Payne and Sons,985.15,98,17058.67,55,Male,Port Kelsey,Debit Card,96544.7,28963.41
+631a8080-bfa4-4324-a1a1-708590b58946,2024-05-06,must,"Miranda, Chang and Hansen",1184.61,47,42990.68,58,Female,Maysfurt,Online,55676.67,16703.001
+029e8032-158d-42ce-8b8d-eeb547f035db,2024-02-15,project,Thompson-Orr,688.29,91,13741.2,46,Male,Taylorborough,Online,62634.39,18790.317
+0be6b587-4219-490c-aa90-179b10c0d066,2024-06-24,third,Lopez-Clements,1104.15,79,43876.56,59,Female,West Michael,Credit Card,87227.85,26168.355
+7b08c5b3-6832-40b6-9fb7-d2c778e42145,2024-02-04,yourself,Roth-Crawford,1022.16,73,62694.98,23,Male,Joymouth,Debit Card,74617.68,22385.303999999996
+57a14899-fdc3-4bc4-82fb-dee041cc5085,2024-03-29,build,Andrews-Martin,1134.19,95,55740.27,21,Male,East Brian,Credit Card,107748.05,32324.415
+af293118-b00a-4dba-b459-643f8520d977,2024-03-19,could,Mckay-Turner,551.79,40,11351.7,63,Other,Peterville,Cash,22071.6,6621.48
+8963d2df-b41b-4cbe-8518-cf70e0084c32,2024-05-19,product,"George, Miller and Pitts",643.18,38,48630.12,61,Female,East Jeremyborough,Cash,24440.839999999997,7332.251999999999
+2854bddf-ed59-41f1-8479-21469066db0a,2024-05-09,yourself,"Pope, Delgado and Wood",1151.03,44,18728.92,28,Male,Kelliemouth,Cash,50645.32,15193.596
+5715966f-620a-44f4-b08d-9c444264c4c1,2024-06-14,open,Smith-Rice,1429.03,39,77814.75,50,Other,Allisonburgh,Online,55732.17,16719.650999999998
+e24a5e01-58fc-4b60-ad3d-ea4d0311562a,2024-04-22,develop,"Mclaughlin, Wilson and Hunter",163.62,85,31578.18,50,Male,Michellehaven,Credit Card,13907.7,4172.31
+491df6cd-be42-4e12-a049-1c7609a23287,2024-07-10,rather,"Tanner, Schwartz and Weber",1083.41,41,127366.64,45,Male,West Sarah,Online,44419.810000000005,13325.943000000001
+c05f4a0d-cdff-413b-82c6-a5522ce92982,2024-05-29,heavy,Cochran LLC,879.86,75,5412.4,62,Other,New Michael,Cash,65989.5,19796.85
+94250109-a3a9-43a4-9443-497b3972262f,2024-03-15,blood,Washington Inc,1396.17,56,29601.25,58,Other,South Jason,Online,78185.52,23455.656
+4eb4199a-ef91-4628-ba3c-41c63339a2be,2024-06-27,what,Washington PLC,481.52,47,117410.59,23,Male,Port Michaelton,Debit Card,22631.44,6789.432
+bceb5de7-8aca-481e-a9cc-d597dd5a6bd4,2024-04-04,because,Rosario-Woods,501.28,89,25914.37,28,Other,Port Paulstad,Debit Card,44613.92,13384.176
+07d2b6a9-3e14-400a-be8a-78a04561b012,2024-03-10,mean,Foster PLC,1201.43,20,52958.06,48,Other,Valentinefort,Credit Card,24028.600000000002,7208.580000000001
+d4bf1d86-3aac-4eeb-9cbd-2612f274b55b,2024-02-26,service,"Bates, Miller and Burns",500.75,28,24825.84,18,Other,South Christopher,Cash,14021.0,4206.3
+d065b78c-b6c8-4ddd-bc81-b7ea28636d08,2024-03-13,hundred,"Nichols, Morales and Knight",690.06,84,104232.48,58,Female,Port Tiffanyborough,Online,57965.03999999999,17389.512
+9687e9aa-1714-40c8-b210-4f52ce83d84b,2024-06-21,owner,"Joseph, Trevino and Salinas",535.11,72,1208.55,55,Female,Browntown,Cash,38527.92,11558.375999999998
+8941f9a8-f3f4-4d7a-a88d-ccceaa5fcda3,2024-02-15,professional,"Davis, Marquez and Ray",1082.81,17,109166.68,55,Female,East Kathyberg,Debit Card,18407.77,5522.331
+3dbff4ee-4386-4c3d-a2e2-a7a7f919006f,2024-07-06,best,Sanchez Inc,967.71,88,33347.28,58,Male,East Anaville,Cash,85158.48000000001,25547.544
+1bcdf294-8f88-4cdd-aa1b-5296be5466b4,2024-03-30,expect,"Jackson, White and Brown",1409.21,76,8286.95,43,Other,Jordanfurt,Credit Card,107099.96,32129.988
+861afd35-16b7-4bfc-9d56-78c60e0f6a41,2024-04-16,one,Gillespie-Holland,1443.99,40,12637.8,58,Other,East Daryl,Debit Card,57759.6,17327.879999999997
+b285b45a-4d7f-4177-ae0f-6765d4a98db9,2024-05-12,scientist,Oliver-Douglas,656.01,70,69202.92,23,Male,South Gina,Debit Card,45920.7,13776.21
+73f4ae54-30b9-4336-9a6a-82d52f683932,2024-02-07,including,Ramirez Group,307.83,57,15802.93,41,Male,Christophermouth,Online,17546.309999999998,5263.892999999999
+4051c5e2-2ef1-4be8-b1a4-f40f24c58998,2024-03-31,example,"Ramos, Lewis and Romero",1252.68,55,9970.35,55,Other,Lake Sergioside,Cash,68897.40000000001,20669.22
+f29a147f-2183-4e3e-8851-b7bbc41df8c8,2024-05-05,political,Rocha-Chapman,866.4,48,83129.76,43,Female,South Shawnfurt,Debit Card,41587.2,12476.159999999998
+d614e07e-e363-4b91-b181-3f32207c8fa0,2024-03-24,probably,"Sanchez, Brooks and Mason",448.06,64,5070.3,56,Female,Johnborough,Debit Card,28675.84,8602.752
+5de8606b-2499-44f9-b3fa-eaf96fcf7a92,2024-05-25,pass,"Guzman, Evans and Reynolds",1302.69,54,23169.36,26,Female,Sueshire,Online,70345.26000000001,21103.578
+1a15c29f-5bf7-403c-a1db-beda42b1d544,2024-05-09,many,"Reyes, Parker and Conway",1218.75,38,21705.6,25,Other,Stevenland,Debit Card,46312.5,13893.75
+8373a7ce-dae1-4293-afff-ed796eb226e4,2024-02-03,three,Wilkins PLC,1174.32,66,6250.4,32,Male,Perezstad,Debit Card,77505.12,23251.535999999996
+b9f9e996-9a33-46fc-8d17-f50db3676bb2,2024-01-01,statement,"Martin, Anderson and Garcia",463.44,98,38663.73,37,Male,Port Leah,Debit Card,45417.12,13625.136
+cb25ea10-abf5-4e5f-9be8-fbeab7ca6f5b,2024-03-11,treat,White Inc,1205.37,56,21403.8,21,Male,Lake Davidville,Online,67500.72,20250.216
+99bc5b07-fac2-4eaa-a29b-79b446570495,2024-06-07,country,"Johnson, Johnson and Zimmerman",907.71,60,13448.12,61,Other,West Lisa,Credit Card,54462.600000000006,16338.78
+a9cd54db-2023-4060-ae7b-f14621fb7c15,2024-07-16,lose,"Shaffer, Oliver and Sanchez",315.81,57,85998.64,38,Male,Deantown,Credit Card,18001.170000000002,5400.351000000001
+62f27326-097f-4b21-b4d9-026506d7bbea,2024-07-18,firm,Cruz Ltd,527.16,27,96101.64,28,Female,Michaelmouth,Credit Card,14233.32,4269.996
+918c1785-2c85-4757-a15e-cfddb38dd38e,2024-05-27,bad,"Mcmahon, Jones and Baker",1317.59,86,102433.02,28,Other,New Charles,Credit Card,113312.73999999999,33993.82199999999
+9c8b7e95-939b-471b-b866-bce9e1c92dfd,2024-01-01,sign,Sanchez-Weeks,858.06,21,18936.06,42,Female,East Scottchester,Cash,18019.26,5405.777999999999
+0835e90c-955f-47dc-87df-98c314e501a7,2024-06-25,former,Weaver-Thompson,1196.33,87,115585.69,35,Other,Brandonton,Online,104080.70999999999,31224.212999999996
+6560306f-bd5f-4fa3-912d-53959b84aa32,2024-02-09,movie,"Thornton, Daniel and Jensen",857.2,49,16262.26,36,Male,Lake Marybury,Cash,42002.8,12600.84
+f0ea4454-91ff-4398-bb53-fa58b6d834b0,2024-06-12,wear,"Price, Ashley and Coleman",1314.34,36,61127.54,39,Other,North Melodyview,Cash,47316.24,14194.872
+fb0ac5aa-9274-4625-894a-3f9a0eea96dd,2024-02-02,take,"Carroll, Woodard and Mccarty",721.93,42,43927.66,40,Female,New Tyler,Online,30321.059999999998,9096.318
+a8636322-29d8-4152-b812-15b95f4b4444,2024-01-07,crime,"Cowan, Hamilton and Hancock",783.61,97,26851.35,21,Other,West Jerry,Cash,76010.17,22803.051
+6f163bb7-2201-4639-8f4a-fe8548c84714,2024-02-22,hotel,Rivera-Berry,904.96,30,20811.52,57,Female,Amandaton,Credit Card,27148.800000000003,8144.64
+0e28407f-34eb-470b-b786-5688a42daa31,2024-01-01,within,Tran-Graham,1415.83,39,96500.6,30,Other,Medinaland,Debit Card,55217.369999999995,16565.211
+bfe2c634-a6b1-45fe-b8bb-37de2f958576,2024-07-03,table,Chase Ltd,512.52,72,10659.9,21,Female,Port Samanthaborough,Cash,36901.44,11070.432
+8d5dfc44-35eb-43f9-884e-6a8cd84eebab,2024-07-19,cultural,Rivera-Watson,818.49,52,29583.3,27,Female,East Stephanie,Cash,42561.48,12768.444000000001
+166a1cff-abd7-450d-b2a5-e10177e81d86,2024-05-25,coach,"Harrington, Sosa and Mccarty",965.34,79,102877.92,41,Other,Rachelton,Cash,76261.86,22878.558
+1048c6bf-ba43-470b-a8f9-e57ffc78738a,2024-06-03,work,Aguilar Ltd,945.23,60,6889.92,27,Male,Emilymouth,Online,56713.8,17014.14
+da4642e3-1c75-4406-b832-430f7cec5ff5,2024-06-09,sport,"Maxwell, Dunlap and Sanford",1027.51,69,12578.28,64,Male,Port Brianmouth,Cash,70898.19,21269.457
+5c35c645-58d4-4665-8f7c-71a70ce88a13,2024-05-08,mother,Sims-Mason,297.69,40,49628.16,44,Female,North Caroline,Debit Card,11907.6,3572.28
+3205575e-187f-40bd-abc4-afee4b335515,2024-06-11,after,Brandt and Sons,1302.2,36,49907.3,63,Female,Port Traceyton,Credit Card,46879.200000000004,14063.76
+dfb76477-24d9-48b0-9266-9500b73c0c40,2024-01-26,oil,"Woods, Gutierrez and Tapia",1472.67,21,10167.08,57,Female,West Natalieside,Debit Card,30926.07,9277.821
+abac8dfb-6920-43fc-a219-c67e43b489f4,2024-05-20,it,Love-Grimes,662.12,21,43543.06,39,Female,North Evan,Cash,13904.52,4171.356
+2e81bb66-267c-4e18-925d-082798a1180f,2024-07-20,reflect,Banks Group,193.87,68,4183.12,64,Other,East Dakota,Cash,13183.16,3954.948
+46558a88-4d26-4fc8-9898-252df2209b5d,2024-05-09,become,"Poole, Parker and Williams",997.81,95,38925.12,50,Other,Walshport,Credit Card,94791.95,28437.585
+af572705-7972-4ec5-9d81-78e221b9c27f,2024-03-06,general,Parks-Steele,610.7,95,58955.44,42,Other,Lake Louis,Debit Card,58016.50000000001,17404.95
+f434cbf9-a064-4fd2-a315-84ae804bb6e3,2024-07-06,goal,Wilson-Bailey,549.53,43,32158.62,36,Other,Dylanport,Online,23629.789999999997,7088.936999999999
+db33eeb8-dd46-4892-b040-b34667738ef5,2024-03-12,soldier,Lee-Jones,1042.66,88,41129.4,22,Male,New Amyfort,Online,91754.08,27526.224
+f4f4d4a9-d040-4354-9184-5157a5052f29,2024-05-19,again,Nguyen Inc,1159.99,31,94344.8,36,Female,Staceyborough,Cash,35959.69,10787.907000000001
+8ddf0eb5-4903-40ab-9d0c-df96394dc01c,2024-03-21,environment,Gilbert Group,455.7,34,79358.44,32,Other,East Carl,Cash,15493.8,4648.139999999999
+110a6e68-958f-463a-8f14-ce0c1a0b22d0,2024-03-06,much,"Gray, Smith and Barnes",478.36,76,34481.72,20,Female,North Cherylfurt,Credit Card,36355.36,10906.608
+f6f45f32-7063-4d28-bd98-ebf419e0505d,2024-06-19,my,Wallace LLC,209.32,54,41450.78,49,Other,Laurenfurt,Credit Card,11303.279999999999,3390.9839999999995
+d0da1b38-58fd-4b3f-85fa-d9a8f45ee603,2024-01-20,practice,Wilcox PLC,1293.55,95,85958.04,44,Male,Mclaughlinburgh,Cash,122887.25,36866.174999999996
+78956e9d-222f-40a4-9ea2-499b738e6a00,2024-03-30,middle,Cherry-Potts,314.93,81,16541.34,23,Other,New Kristafurt,Credit Card,25509.33,7652.799
+4e3d3eca-dfa0-49f1-bcbb-95d2be03cf84,2024-02-17,group,"Norman, Miller and Smith",1048.2,67,4489.6,59,Female,Sheltonbury,Debit Card,70229.40000000001,21068.820000000003
+d8beeb51-07ef-4f3c-b685-15c90ab0f69b,2024-05-13,can,"Mcguire, Garcia and Ingram",796.02,66,53596.2,29,Male,South Jason,Credit Card,52537.32,15761.196
+fa99ccca-81e8-4c9d-960c-fb066dfa0ac2,2024-03-12,choice,"Thomas, Henderson and Morales",674.58,72,9423.0,59,Other,East Jessica,Cash,48569.76,14570.928
+a4dc211b-f0f3-4ed6-b0fc-11c9c2d9b520,2024-05-24,manage,"Stokes, Cobb and Hunter",1013.86,75,57203.85,33,Male,West Emilyborough,Cash,76039.5,22811.85
+a82956fe-729e-4c5b-bad7-dc1927e97a57,2024-04-09,risk,"Hull, Simmons and Robinson",941.59,68,418.48,42,Female,Deborahberg,Debit Card,64028.12,19208.436
+ef04e95b-4e6b-42e0-813a-1ae7c7861cd6,2024-02-15,training,"Kelley, Blair and Mckinney",1276.39,49,10477.78,20,Other,Ballstad,Cash,62543.11000000001,18762.933
+dc467662-2188-455e-b885-a74bec8d04d0,2024-06-12,indicate,Ramos LLC,733.77,93,70985.66,56,Other,West Chrisbury,Credit Card,68240.61,20472.183
+200c26df-fb70-4338-afdc-c3e26dfe04fb,2024-02-08,school,Clark-Figueroa,888.01,53,72454.0,43,Male,New Stephenberg,Debit Card,47064.53,14119.358999999999
+af44b142-5392-4d93-9060-ad7d5c8022f3,2024-02-02,baby,"Hurst, Carpenter and Hoffman",766.06,46,91485.24,52,Female,North Johnshire,Online,35238.759999999995,10571.627999999999
+e9418ce7-687e-409e-bab6-6557e09a4182,2024-02-06,build,Kelley-Garcia,1171.43,31,20990.71,59,Other,West Philipview,Cash,36314.33,10894.299
+70522544-c575-4acb-9c0c-1b90bd462807,2024-02-27,against,Ortiz Ltd,724.55,23,10383.75,58,Male,Brittanyview,Online,16664.649999999998,4999.3949999999995
+83f22533-6d79-48b7-9d4c-e78aadf0595a,2024-01-23,protect,"Burns, Davila and Camacho",1297.7,85,68618.72,36,Female,North Johnport,Debit Card,110304.5,33091.35
+11e783a0-e4d8-4399-9ce6-0049fdab62c6,2024-02-25,sit,"Gilbert, Garcia and Sellers",882.11,86,40211.82,28,Other,North Jacqueline,Debit Card,75861.46,22758.438000000002
+df50f4d2-def7-4c13-8e78-ec3a6a2da3af,2024-03-20,television,"Lee, Boyd and Lewis",1136.68,80,100225.82,64,Male,Lake Jessica,Credit Card,90934.40000000001,27280.320000000003
+c70ad229-1f8d-40c9-9835-ec7015b10bde,2024-03-10,mouth,Benson-Dixon,735.35,69,14679.39,37,Other,Palmermouth,Debit Card,50739.15,15221.744999999999
+256cf9e1-cd77-4145-951b-d92e44d00cf3,2024-07-14,contain,"Harris, Hamilton and Rose",641.22,25,45087.84,22,Female,Port Tom,Online,16030.5,4809.15
+e6542cfc-a7ca-430e-b3b3-8064bb3c745b,2024-04-22,since,"Diaz, Brooks and Dixon",995.72,77,79491.52,63,Female,West Andreahaven,Debit Card,76670.44,23001.132
+ac8bf7a8-fb2b-41f7-a0fa-53272d7bf4b9,2024-07-17,shake,"Peterson, Long and Ward",678.18,66,33566.52,49,Female,Dianaberg,Online,44759.88,13427.963999999998
+1c06d99c-d59c-47e8-83ba-38a40a00be41,2024-04-01,artist,Smith-Tucker,1294.76,99,9072.42,42,Male,Greeneview,Debit Card,128181.24,38454.372
+29e80359-eab4-4dfe-91ac-61b66e06a8d4,2024-04-06,win,Walker-Bradford,691.39,62,12194.2,60,Other,Port John,Credit Card,42866.18,12859.854
+4d9ce9a2-1a32-47fe-9112-85fa4c68e60b,2024-01-22,join,"Holder, Thornton and Young",196.78,80,48499.36,26,Other,Hensleymouth,Online,15742.4,4722.719999999999
+69e4a6c9-121c-4f78-beb6-3ca151fc3280,2024-06-22,its,Perry PLC,813.19,49,30419.46,49,Female,Andrewport,Online,39846.310000000005,11953.893000000002
+56f4a3f9-ee2d-4c28-b836-8f183b0333b0,2024-04-05,they,"Kirby, Oneill and Carter",1345.42,94,31312.96,25,Female,Steelemouth,Online,126469.48000000001,37940.844000000005
+784b0c63-1eb4-42bf-a8e1-de0d1f9bbbb2,2024-05-18,blood,Fleming Group,1465.14,80,11440.5,60,Male,Newmantown,Cash,117211.20000000001,35163.36
+1cafe067-7e81-46ff-9990-579adaebc2cf,2024-07-08,senior,Jensen-Lowe,1483.91,94,12619.62,29,Female,West Susan,Online,139487.54,41846.262
+c6c2bdcc-6479-444e-8ea7-98fdd924178c,2024-06-22,sometimes,Benson and Sons,723.74,52,84268.86,60,Male,Emilyview,Online,37634.48,11290.344000000001
+0cea2fc6-9c78-4e30-9f11-8a902c60809c,2024-06-05,company,"Pierce, Schaefer and Walsh",1499.25,49,11024.64,44,Male,South Leslie,Credit Card,73463.25,22038.975
+b44062f4-e16b-4596-bba1-9dd612a69615,2024-03-16,collection,Jones-Boyd,883.16,23,76260.0,32,Female,East Jeremybury,Online,20312.68,6093.804
+69dcedc9-84c1-4736-9a47-cdcc1adfde86,2024-05-02,forget,Cobb LLC,410.05,90,53107.15,24,Other,West Kathrynfurt,Credit Card,36904.5,11071.35
+98844777-0706-4954-967c-eba273be9786,2024-02-24,hard,Munoz-Smith,783.11,32,44307.62,31,Female,Santosshire,Credit Card,25059.52,7517.856
+e7cf63e9-73b1-49a8-80f7-3353a9c003ec,2024-05-22,community,Smith PLC,399.41,52,9938.18,39,Male,West Stephanieton,Debit Card,20769.32,6230.795999999999
+34334e60-d90a-4a2f-92c8-bedb72080cbc,2024-05-07,enter,Andrews PLC,805.82,85,59485.2,39,Male,Timothyfurt,Online,68494.7,20548.41
+d09c0b41-1402-4356-9862-1037a36dff3c,2024-06-29,drug,Ford LLC,690.46,71,56054.1,33,Female,Jasmineview,Credit Card,49022.66,14706.798
+279ece16-2767-4f56-badd-d5a9b2b86bd6,2024-07-23,much,"Stewart, Webster and Ford",576.03,30,32296.6,38,Male,New Michael,Online,17280.899999999998,5184.2699999999995
+d98c3b45-5cc3-458b-9791-aa4d15ee4eec,2024-05-02,style,Woodward-Phillips,1391.33,8,84083.59,59,Other,Johnnyside,Debit Card,11130.64,3339.1919999999996
+d06a6ba0-525b-439d-9cd5-cd6393750e0f,2024-04-14,one,"Martin, Burgess and Cameron",418.73,33,63563.28,25,Female,Lake Stephanie,Credit Card,13818.09,4145.427
+23dd9a36-c55f-43a3-bf42-481f3e0ee6a3,2024-01-22,appear,Rubio-Williams,533.99,71,81432.39,23,Female,Williamton,Debit Card,37913.29,11373.987
+b985cb02-e412-4a28-8b7d-f67d8b2fb776,2024-04-22,never,Davis-Paul,1139.64,36,1186.92,37,Male,Lake Carlborough,Credit Card,41027.04,12308.112
+61da9554-d735-47aa-92c0-2dd9b8e6b055,2024-07-21,thus,Aguilar Group,219.12,71,10462.84,30,Male,West Dustin,Credit Card,15557.52,4667.256
+93d873c0-2bde-4df3-b5a0-d6f552d0ad46,2024-03-09,nearly,Roberts Ltd,407.76,83,17972.23,52,Female,Savageborough,Cash,33844.08,10153.224
+2530f05b-6257-4b32-ae88-d7abdfe4f583,2024-04-08,area,"Holmes, Austin and Davidson",651.39,29,85514.94,41,Male,Port Seanfort,Cash,18890.31,5667.093
+1687bec4-ccc8-4abe-81d1-d3c34ceb1b5f,2024-07-05,outside,"Wolf, Hamilton and Rubio",1314.06,17,13601.44,27,Other,Alexchester,Debit Card,22339.02,6701.706
+6e60d8ff-7739-4b20-9e46-39aaaff5712f,2024-02-24,career,"Fuller, Sanders and Molina",363.28,42,16676.68,26,Male,North Jacqueline,Credit Card,15257.759999999998,4577.3279999999995
+0d2da590-d5ac-4a38-8f0a-9c668bc549a7,2024-01-09,white,Atkins LLC,1104.19,77,16094.1,60,Female,Lake Heather,Credit Card,85022.63,25506.789
+de78ab55-00b9-4f31-afe7-84618cd66be6,2024-02-18,training,"Sloan, Harris and Green",1183.15,54,29553.54,62,Female,East Rodney,Debit Card,63890.100000000006,19167.030000000002
+56e9b08f-7ac7-4d17-879b-4d67b2ba0deb,2024-02-23,music,"Mcdonald, Bright and Ward",149.81,96,8035.56,34,Male,Ramostown,Cash,14381.76,4314.528
+f5e80390-e8c0-4d19-a71c-3ec604065a1e,2024-01-03,organization,"Holden, Figueroa and Bennett",1100.71,20,57639.84,26,Male,Lake Paul,Online,22014.2,6604.26
+0a10d05d-8ffa-47f5-bf19-5726fe50e74f,2024-07-05,north,Velasquez-Baker,388.02,94,15952.8,46,Other,Penashire,Online,36473.88,10942.163999999999
+0c9f7198-e8fa-4d6f-818f-19e2f79f916b,2024-01-17,risk,Wilson-Green,1459.69,49,17226.06,22,Female,Port Lisaburgh,Online,71524.81,21457.443
+c30b9b0d-9d70-4b3a-a4a8-4bc902104b17,2024-05-14,believe,"Kelley, Young and Price",1427.1,21,16813.44,59,Other,Melissatown,Credit Card,29969.1,8990.73
+7cedc07b-c37f-485b-b9b5-df1688a0c999,2024-04-24,stage,Pittman-Nelson,1212.06,70,54563.6,63,Other,Ivantown,Online,84844.2,25453.26
+4443ecd5-d4bd-4707-b171-06e69c626297,2024-02-15,science,Hernandez-Reed,1037.33,14,14866.38,59,Female,East Holly,Debit Card,14522.619999999999,4356.785999999999
+b5769cb1-6eb2-4fd0-94ba-3b64b6991c7e,2024-07-24,economy,"Edwards, Mcbride and Gonzalez",1319.53,69,1266.3,54,Other,Martinezhaven,Credit Card,91047.56999999999,27314.270999999997
+3c11f0e7-84ae-46e9-8ab2-4006c91b4629,2024-01-18,cold,Hart Group,153.61,70,40581.0,56,Female,West Kennethmouth,Cash,10752.7,3225.81
+3a41d8a7-4178-44ef-b297-144f309009ec,2024-02-24,hot,Todd PLC,1195.66,13,7341.91,64,Female,South Theresatown,Cash,15543.580000000002,4663.0740000000005
+2738d96b-1fbc-46fb-84a8-cc602f1fa9fe,2024-02-25,behind,"Thomas, Noble and Porter",643.43,76,30525.87,46,Female,Perezfurt,Debit Card,48900.67999999999,14670.203999999998
+dfec007b-6770-4fd3-ae95-910d52fc8a52,2024-05-27,house,"Drake, Martin and Jordan",945.19,47,25375.64,53,Other,Chadside,Credit Card,44423.93,13327.179
+7d2f6441-95e8-4ff4-b27e-6cf5a07e0bc4,2024-03-14,market,Santiago LLC,1265.9,66,19416.91,31,Female,Johnsonstad,Online,83549.40000000001,25064.820000000003
+73dd38ab-73cc-472e-87bf-a2b8fcdf15ec,2024-02-29,stay,Taylor-Ramirez,504.69,24,24482.88,62,Male,Estesstad,Debit Card,12112.56,3633.7679999999996
+169a12e4-fbbb-4910-bd0c-a37f54ef4f78,2024-06-08,eye,"Harding, Delgado and Prince",372.29,60,66385.2,27,Other,Fischerberg,Credit Card,22337.4,6701.22
+47875ee9-5b9a-4d81-9f95-9ecd0fac0574,2024-05-19,author,Branch-Johnson,189.44,93,30138.74,25,Male,Lake Lindafort,Credit Card,17617.92,5285.375999999999
+999884f1-17c1-4366-a5e3-8c63f28673dc,2024-07-12,they,"Shepard, Montoya and Parks",1025.19,21,114812.16,19,Male,West Stephen,Online,21528.99,6458.697
+b0989a60-99d2-474e-9cac-a7c65cd2376b,2024-04-23,war,Johnson-Alvarez,652.8,37,37853.44,44,Female,Port Sheila,Credit Card,24153.6,7246.079999999999
+0371e9b9-a363-4279-a3c0-f94aaa231c35,2024-06-29,public,Meyer PLC,1291.19,8,85403.24,49,Female,Moraview,Credit Card,10329.52,3098.856
+fad4b63f-24cc-4511-ba54-359ccef00509,2024-06-23,remain,Jackson-Thomas,1369.06,16,2055.55,59,Female,North Calvin,Cash,21904.96,6571.487999999999
+c2aa3609-6f1d-4f9d-ba4a-470290c24743,2024-06-24,thing,Ellison-May,530.13,89,6550.83,47,Other,West Scottfurt,Credit Card,47181.57,14154.471
+e5112ff2-c63e-42c1-94e2-a80d7510b2b3,2024-05-05,difficult,Madden PLC,1019.28,38,17747.2,53,Female,Port Joanside,Credit Card,38732.64,11619.792
+b3e66e0a-cfeb-4549-b0b6-11e998f9a275,2024-04-30,scene,Conway Group,1387.62,41,37191.92,39,Male,Lake Brendaport,Debit Card,56892.42,17067.726
+077487a5-61c4-4f29-bd88-49901d7b47e7,2024-04-30,painting,Harris-Bell,1385.88,83,9700.6,41,Other,North Samuel,Online,115028.04000000001,34508.412000000004
+41d3606e-7715-4de8-a000-f5f7faa3beb0,2024-02-04,data,Wilkerson-Wood,493.11,33,17866.64,37,Female,East Dylan,Debit Card,16272.630000000001,4881.789
+56cfd2a1-80ed-4414-be76-784231a33b72,2024-06-27,prove,Moore-Jimenez,172.08,94,4239.12,24,Male,West Catherinechester,Debit Card,16175.52,4852.656
+8cec7f87-2347-4bb4-8cdc-9c2a85b94f07,2024-04-14,message,Graham-Swanson,973.62,92,5805.43,52,Female,East Ronnietown,Credit Card,89573.04,26871.911999999997
+06c72a3a-7c8d-47bd-8ca9-39713602ed3b,2024-07-18,tell,Shaw-Brown,583.14,95,96463.62,34,Male,New Maria,Debit Card,55398.299999999996,16619.489999999998
+e251b624-8fca-4064-bca8-6199f79a53da,2024-01-01,scientist,"Sanchez, Solomon and Chapman",1082.67,63,41037.66,54,Male,South John,Credit Card,68208.21,20462.463
+f088a8e2-0fc2-4adf-8617-6ef03eced9a2,2024-06-04,threat,Brown-Montgomery,834.45,25,9701.52,56,Other,Jennaview,Online,20861.25,6258.375
+4fe52be3-0c3e-4098-bc58-8f391cc3fb26,2024-04-29,born,Cunningham-Hawkins,1390.89,79,60684.54,28,Female,Port Fernandomouth,Credit Card,109880.31000000001,32964.093
+6a687ab8-26dc-45b4-81c6-882933fbe619,2024-06-12,north,"Brooks, Ross and Suarez",464.6,23,68567.31,62,Male,Mossshire,Credit Card,10685.800000000001,3205.7400000000002
+0740c846-3424-4692-afee-088248bbfd37,2024-07-22,figure,Flowers-Erickson,1408.39,97,44118.9,30,Other,South Holly,Online,136613.83000000002,40984.149000000005
+7c8bd5da-ebd8-493e-8435-e0f8d20cf82b,2024-03-25,suffer,Nolan-Stuart,741.59,80,116944.7,35,Male,New Taylorside,Credit Card,59327.200000000004,17798.16
+fb5ffb84-dd00-41a7-943d-a224c201e241,2024-07-24,natural,Walker-Grant,732.93,97,74919.88,64,Female,North Jacob,Credit Card,71094.20999999999,21328.262999999995
+c1dd718f-8c25-47a9-bc37-5dd6c767199e,2024-02-26,rule,"Vasquez, Roberts and Johnson",1458.6,85,6503.25,19,Other,Bowentown,Credit Card,123980.99999999999,37194.299999999996
+a9d4ebfb-3a5b-4d27-a847-0a606c6eaf6f,2024-03-31,any,Holland Ltd,781.4,53,26334.0,28,Male,Lake Becky,Online,41414.2,12424.259999999998
+ec42f85b-5a5d-453b-aa8c-b0411cc01381,2024-04-06,whole,"Berry, Anderson and Hernandez",750.48,81,13306.58,44,Other,Owensland,Online,60788.880000000005,18236.664
+aa2085bf-a0e7-48ad-94aa-119b22427bea,2024-01-06,south,Brewer-Morrow,574.97,85,2763.88,18,Female,Velazquezton,Debit Card,48872.450000000004,14661.735
+035b45c5-3169-4d51-8c79-af255f57eb78,2024-02-12,house,"Curtis, Fischer and Mendez",852.86,90,6729.44,34,Male,Michaelhaven,Online,76757.4,23027.219999999998
+975ab0fa-e6eb-4085-8619-fac496030deb,2024-01-30,after,Harris-Rogers,1175.92,59,30732.83,26,Female,Buckfort,Debit Card,69379.28,20813.784
+462cf16a-9332-454f-8059-676e62156f3b,2024-03-08,decade,Williams Inc,298.95,84,31611.69,41,Female,Bakerland,Debit Card,25111.8,7533.539999999999
+8e51238a-e2c4-4f2e-8896-3e6c0ad57be1,2024-02-11,miss,"Perry, Smith and Smith",1441.98,24,21111.13,57,Other,Lake Ellenport,Cash,34607.520000000004,10382.256000000001
+45cd846d-c7d1-410d-aef8-34d6b7cec705,2024-01-28,many,Vincent-Greene,207.45,55,48287.96,52,Other,North Catherine,Debit Card,11409.75,3422.9249999999997
+cceab373-a1d1-42cd-84c9-61b2841e7a17,2024-04-21,a,Ritter-Reed,883.15,72,54891.08,21,Male,Erinberg,Debit Card,63586.799999999996,19076.039999999997
+ec3f2b24-b0b6-44fa-b4d9-8bfb7598ff4e,2024-01-05,enough,Blake Ltd,1072.63,24,87163.65,25,Male,West Rachel,Online,25743.120000000003,7722.936000000001
+dced92e7-8ee8-4eab-837e-c2b2ca0510a2,2024-03-12,scientist,Lee-Johnson,1005.71,85,43858.3,62,Other,North Sarah,Debit Card,85485.35,25645.605
+dcdb0057-f8d3-402e-b640-fd3256a96fb1,2024-03-26,plant,"Morrison, Leonard and Hill",624.9,27,36484.24,42,Female,Alexandrachester,Credit Card,16872.3,5061.69
+b563bdbe-055d-41a8-8cea-06be0db9c82c,2024-05-02,possible,"Johnson, Mcconnell and May",1385.71,75,24011.36,57,Male,Sullivanmouth,Credit Card,103928.25,31178.475
+786209f4-66ff-4984-8ad5-7aeb9693a463,2024-07-19,happy,"Adkins, Robertson and Lindsey",835.18,33,30069.27,48,Other,Elaineville,Online,27560.94,8268.282
+f65667d3-2efe-499a-89ed-402e3977edae,2024-01-24,ground,"Joyce, Bowman and Ramirez",1409.11,27,5429.61,54,Female,West Nicoletown,Credit Card,38045.969999999994,11413.790999999997
+d000d275-0110-4e7c-8087-93cd96e0f30b,2024-03-11,performance,Lin LLC,728.62,67,52805.91,27,Other,Brianburgh,Online,48817.54,14645.262
+9a9a2ad8-8243-41ac-93cc-c179ea2af34c,2024-05-20,sit,Henry-Brooks,783.1,16,14592.2,29,Male,Sierraview,Credit Card,12529.6,3758.88
+23fefa66-4076-45f5-9bea-a3b9271709af,2024-07-04,quite,"Williamson, Martinez and Contreras",778.23,36,59883.18,36,Male,Nelsonville,Online,28016.28,8404.884
+9f823c66-7d39-4597-a23c-89bf64dd48d8,2024-04-08,order,Mercer-Williams,1350.1,51,18824.64,18,Female,South Jennifer,Debit Card,68855.09999999999,20656.529999999995
+67181c30-af64-49bc-b730-65c38b38575c,2024-02-19,friend,Delgado Ltd,1497.89,62,57220.15,30,Female,Maryshire,Online,92869.18000000001,27860.754
+bbef37f6-1f00-42a5-b35c-810fbfe06328,2024-03-24,eat,Webb Group,320.62,32,4104.38,29,Male,Danielton,Cash,10259.84,3077.9519999999998
+8a514c4c-ea9c-4135-ae52-20e11cf1aeb2,2024-02-06,process,"White, Buck and Suarez",1228.12,13,30275.28,49,Female,Martinville,Debit Card,15965.559999999998,4789.667999999999
+b94cbdf0-4789-4f5f-9479-d8ea345ea63b,2024-05-24,general,"Bradley, Miller and Evans",1334.89,49,4235.82,60,Male,Danielhaven,Debit Card,65409.61000000001,19622.883
+999e4a97-c4b5-4eef-a92f-72eac69f1987,2024-03-11,manage,Spencer-Payne,226.71,82,107416.58,49,Other,Jamesview,Cash,18590.22,5577.066
+407d8c9e-b558-4dad-8053-7cc2b9a14a77,2024-05-17,speak,Fisher Ltd,701.97,29,56297.45,60,Female,Port Katherine,Online,20357.13,6107.139
+2495de7b-419a-4883-8075-d5959162492d,2024-05-03,increase,"Bishop, Simpson and Nash",1259.98,72,62998.32,63,Female,Carlaville,Credit Card,90718.56,27215.568
+15b09d84-166a-4a3d-a92b-d6cddc7e46cf,2024-05-15,experience,Young Inc,1341.15,93,99642.96,55,Male,Lawsonbury,Credit Card,124726.95000000001,37418.085
+86b4c985-83c7-4c66-80d6-1922b43ba99a,2024-03-24,cover,"Mcguire, Brooks and Stuart",318.31,94,101815.68,55,Other,New Jose,Credit Card,29921.14,8976.341999999999
+7baffe55-bea1-4955-9138-93c1a2fc3686,2024-06-14,school,Robertson-Obrien,417.08,37,5662.48,43,Male,Port Tasha,Online,15431.96,4629.588
+6eef3ce9-24db-4d0c-84bc-6b834401ba13,2024-05-26,college,Brooks-Schroeder,362.38,46,15824.28,28,Female,West Mathew,Online,16669.48,5000.844
+5c138dea-aebc-40d5-92aa-a5c5f98f7b2b,2024-05-29,fine,Clements and Sons,295.03,98,27111.24,37,Male,Lake Lance,Credit Card,28912.94,8673.882
+ff356796-9288-4aa5-b0dc-a10c4b7fbb3a,2024-02-26,company,Carter-Wilson,899.37,28,116.85,36,Female,Robinstad,Cash,25182.36,7554.708
+5809c86f-2bf3-412c-85f9-71e1557da725,2024-04-14,week,Evans-Shelton,300.7,97,3591.25,52,Other,New Jordan,Credit Card,29167.899999999998,8750.369999999999
+5815ba82-f44e-4610-83d7-28b12cf22bae,2024-04-05,minute,Byrd-Jones,1322.73,67,53299.76,64,Male,South Tylerburgh,Debit Card,88622.91,26586.873
+1878f074-8b14-47be-905c-937e27b4df55,2024-01-31,everybody,Collins-Becker,1058.62,16,29427.3,28,Male,East Courtneyfurt,Credit Card,16937.92,5081.375999999999
+75b69bdf-bcfa-45ec-bb34-0edfaa0f1b60,2024-06-14,color,"Mendez, Watkins and Andrews",1016.7,88,6426.99,42,Female,Chenborough,Debit Card,89469.6,26840.88
+87ec627a-e951-47c9-b9bb-b50a1b83771b,2024-03-01,management,Thompson-Chan,526.11,58,40165.65,39,Male,New Michelle,Cash,30514.38,9154.314
+07b8cc53-9147-4070-9c10-bd47a08e9109,2024-01-17,authority,"Salas, Ritter and Riddle",1338.67,53,54343.68,23,Male,New Wandaview,Online,70949.51000000001,21284.853000000003
+6c234dd7-845d-49d8-a506-0d0525939c52,2024-05-14,most,"Weaver, Young and King",1235.36,98,22969.48,25,Female,Micheleshire,Online,121065.27999999998,36319.583999999995
+ae88502d-6495-4cbb-adaa-c12247525627,2024-05-08,million,Wilson Ltd,1151.34,39,30322.31,18,Female,Gillespietown,Cash,44902.259999999995,13470.677999999998
+3a53e601-db42-492f-ba83-0c7ab32701e3,2024-01-31,finish,Mueller-Hall,376.75,85,118596.04,42,Other,Khanstad,Online,32023.75,9607.125
+4053c488-2914-4b4b-add0-8b8ae200f475,2024-06-11,interview,Vaughan-Perez,514.23,58,38678.4,58,Male,West Alejandroshire,Credit Card,29825.34,8947.601999999999
+cb0b2cd9-a699-4891-a400-b0d4fd59b4d7,2024-04-30,fact,Duffy-Mcmillan,358.15,79,122772.87,58,Other,New Lisa,Debit Card,28293.85,8488.154999999999
+d3d4d7ac-864d-4fe7-89d2-daa38324fbce,2024-04-04,write,Santana-Brewer,660.61,48,10217.06,40,Male,Port Danielfurt,Credit Card,31709.28,9512.784
+b1e75102-5857-4c93-a6b5-d8b39f0e370e,2024-03-18,wind,Bush and Sons,1085.48,84,31433.77,59,Female,Jamiefurt,Debit Card,91180.32,27354.096
+173d6e2c-d2d4-4a78-9b56-8ff05194c0be,2024-07-20,thus,Anderson-Burns,1253.69,94,65396.79,23,Male,Brownburgh,Online,117846.86,35354.058
+505be308-fbe6-4917-9659-87ab82ab776d,2024-04-18,radio,Fuller-Walters,869.95,35,51261.16,40,Male,West Maria,Cash,30448.25,9134.475
+4fd27964-ae6c-4db2-864d-97433fd75088,2024-04-24,board,"Robertson, Frye and Frost",1266.76,27,27716.78,40,Male,West Michael,Credit Card,34202.52,10260.756
+26760d0b-ece5-48d9-906f-6511c119a434,2024-04-08,fine,Sampson-Kennedy,1179.65,89,50670.65,39,Other,South Christina,Credit Card,104988.85,31496.655
+0731961f-3e0f-4360-9d94-a7c7eaf64c2d,2024-02-22,reduce,Sherman-Massey,286.53,91,18304.87,20,Other,Guzmanfort,Online,26074.229999999996,7822.268999999998
+027c963f-25e5-429a-ba37-8023ee7366be,2024-04-13,example,"Sanchez, Shaw and Acevedo",461.16,66,67000.5,58,Male,New Garytown,Online,30436.56,9130.968
+83291bb1-38a7-4770-93d4-609c1e8f8a77,2024-06-30,look,Hurley-Bush,571.36,95,19676.25,30,Male,Kathyfort,Online,54279.200000000004,16283.76
+eb770352-6be0-4e43-a586-c70ae6cb0625,2024-02-25,report,Jackson LLC,513.64,51,11239.47,29,Female,Margaretside,Debit Card,26195.64,7858.691999999999
+00c4011d-0798-4dcd-ba4f-5d7fbbcdc9e5,2024-04-07,now,Cooper-Ross,540.51,54,17004.6,55,Female,Luceroberg,Credit Card,29187.54,8756.262
+f5bb1b7a-3d5a-483e-bd1d-c3ed22bf9490,2024-01-22,water,Malone Inc,1006.68,41,77122.71,56,Male,Miguelhaven,Debit Card,41273.88,12382.163999999999
+830e5dc3-6fc3-4c38-8c96-c1f885db474f,2024-02-10,according,Henry-Duke,261.2,75,63422.96,51,Female,South Kathy,Debit Card,19590.0,5877.0
+6cdafe35-9217-4584-9278-91cac7d6c8e5,2024-02-11,candidate,"Lindsey, Avila and Brown",971.93,62,67708.96,59,Male,South Randyland,Debit Card,60259.659999999996,18077.897999999997
+95e25de2-2aed-4392-b9d5-8490ceb1f777,2024-06-12,light,Williams Group,678.62,55,37414.8,18,Other,South Adam,Online,37324.1,11197.23
+bec900a2-835d-45d6-8a61-b03a3a6db522,2024-05-18,art,Russell-Alvarez,1485.67,12,3662.61,22,Female,Joshuabury,Credit Card,17828.04,5348.412
+b713f658-82d8-45a3-a3be-55ea360f081f,2024-07-05,purpose,"Williams, Carrillo and Rice",412.76,76,39129.12,42,Other,Martinton,Debit Card,31369.76,9410.928
+20454e0f-638d-4d6b-90b0-ecb2a238d54b,2024-07-13,factor,Smith-Scott,747.06,96,8582.58,54,Other,Kellerfurt,Cash,71717.76,21515.327999999998
+9230af26-83a1-4066-8d7a-8f32cb65a58c,2024-06-12,industry,"Barrett, Figueroa and White",1384.31,86,64326.15,45,Other,North Jeffrey,Debit Card,119050.65999999999,35715.198
+95bee8ce-4701-4a6b-8a17-a68f2e661677,2024-03-10,director,Dennis-Sanchez,1343.65,96,3301.35,19,Female,Lake Christopher,Online,128990.40000000001,38697.12
+cae71494-a76a-4452-9fee-463e427f7bbc,2024-03-31,heavy,"Gonzalez, Coleman and Le",1068.1,48,54876.0,55,Female,Kingside,Credit Card,51268.799999999996,15380.639999999998
+1b246f4b-b8b3-4cec-b801-bde2d1987509,2024-03-01,get,Pope-Hensley,1245.83,37,21542.76,44,Female,Brownton,Online,46095.71,13828.713
+e1c6314f-e658-4e58-93bf-29851e442ad3,2024-02-19,common,"Petty, Smith and Arnold",799.51,48,46743.35,56,Female,East Barbara,Cash,38376.479999999996,11512.943999999998
+d8d6aacb-c758-4d2c-83aa-5fb47c316af7,2024-02-17,fear,Harris and Sons,462.26,68,13356.66,21,Male,New Pamela,Cash,31433.68,9430.104
+be14475a-5ac8-4fdb-afdd-2e05fc45947a,2024-01-20,anything,"Jenkins, Phillips and Lopez",635.51,36,63405.0,42,Female,Port Jose,Cash,22878.36,6863.508
+b34103e5-2b2b-412e-8312-2993ac4a6ce2,2024-07-11,expect,Marquez Ltd,730.63,99,59166.08,46,Other,West Jackville,Debit Card,72332.37,21699.711
+476d805e-3604-47a8-9602-dc33cccd50bd,2024-03-20,walk,Gonzales Group,1223.93,68,63610.47,35,Male,Jessicaborough,Credit Card,83227.24,24968.172000000002
+f6911e69-8a1f-4cf0-ad51-e80918c55a81,2024-06-28,analysis,Lopez PLC,1183.94,21,48029.76,38,Male,Danielstown,Credit Card,24862.74,7458.822
+5459cd0f-80b8-45bb-8122-82f6a3b60075,2024-04-28,right,Miller-Wolfe,1443.45,34,56713.47,48,Male,Schultzberg,Online,49077.3,14723.19
+373ea1b5-6c22-486b-a155-c88dbe8783b0,2024-01-08,financial,Valencia-Boone,944.62,65,91315.64,18,Female,Lake Peterland,Credit Card,61400.3,18420.09
+ccebab09-9abd-4642-ae8e-aad2f31519c3,2024-06-20,increase,"Johnson, Harris and Strong",433.44,94,7070.76,19,Female,Jasonview,Cash,40743.36,12223.008
+7c8258c8-cee3-4091-a555-364e0f884526,2024-04-17,dream,Fritz-Tapia,933.94,39,10641.2,18,Male,West Kevintown,Cash,36423.66,10927.098
+45f4b879-e887-45dc-aaba-df06f4372f9e,2024-06-09,religious,"Grant, Cross and Bennett",1211.35,24,36056.64,29,Other,Christophermouth,Debit Card,29072.399999999998,8721.72
+d40764e9-e423-40da-bee9-6d0f484d2575,2024-02-25,rock,Walton-Larson,370.12,88,54432.0,25,Other,South Jackiemouth,Credit Card,32570.56,9771.168
+6ad81fed-c3a4-4c01-b1f0-ee7ad6696755,2024-05-19,speak,Morales LLC,1494.45,42,63030.92,55,Other,North Mariaberg,Credit Card,62766.9,18830.07
+5bc75cac-25a8-4cff-af9c-953f17ae6624,2024-05-15,recent,Cole-Williams,459.53,34,82503.4,29,Female,Port Sarahhaven,Debit Card,15624.019999999999,4687.205999999999
+919c1ad3-a1e4-417b-8de2-857999657de7,2024-04-14,could,"Evans, Clayton and Ross",1494.78,56,25845.56,38,Male,Jeremychester,Debit Card,83707.68,25112.303999999996
+e04bfb12-168d-4726-9adf-1200ecee7ba9,2024-07-02,accept,"Moyer, Lee and Abbott",556.39,51,54578.4,37,Other,Foleyhaven,Cash,28375.89,8512.767
+325e4986-795c-43f1-9450-b746cf655ae8,2024-03-22,plant,"Kemp, Ingram and Olsen",575.53,83,38959.2,32,Female,New Paulhaven,Debit Card,47768.99,14330.696999999998
+81b50cb3-6f6e-47eb-84fb-08ecd54c20f4,2024-07-20,economic,"Stephens, Cox and Fisher",1073.31,13,23713.99,19,Other,Bradleymouth,Debit Card,13953.029999999999,4185.909
+a9682e7e-d689-4693-a594-33027bceb0df,2024-05-20,child,"Schneider, White and Thomas",341.51,56,15090.48,24,Male,Lake Stacy,Credit Card,19124.559999999998,5737.3679999999995
+d48125c4-eeb2-4c5f-b368-f888ea800132,2024-04-26,through,Dominguez-Franklin,300.03,43,34352.76,34,Female,Teresachester,Online,12901.289999999999,3870.3869999999997
+33dc9167-0df5-4a09-a7ea-6d536be1fc09,2024-01-01,idea,Bishop LLC,1230.49,52,73267.92,48,Female,North James,Online,63985.48,19195.644
+9a5d82f1-e126-4f2b-a0a5-00c89bf7be34,2024-04-11,military,Wolfe-Schroeder,975.8,28,12735.0,43,Male,Collinston,Debit Card,27322.399999999998,8196.72
+bf2b5da9-64ae-4b8a-8ce5-f9ecd85db440,2024-01-03,fly,Wallace Ltd,305.39,99,135494.8,49,Other,New Kathryn,Credit Card,30233.609999999997,9070.082999999999
+f16f23d3-e144-495c-9f57-33cf60703757,2024-04-20,training,Sanchez PLC,310.1,59,63215.81,63,Female,Clarkstad,Cash,18295.9,5488.77
+97aef928-83ce-474f-b069-20f61eeb351a,2024-05-23,person,Ortega Inc,829.17,16,4384.98,48,Female,Amandaburgh,Debit Card,13266.72,3980.0159999999996
+99f8064c-0a0f-49e3-96eb-1fd34c8b289c,2024-01-02,property,"Elliott, Green and Scott",1016.94,64,67470.06,18,Other,Fieldsborough,Credit Card,65084.16,19525.248
+e6b7a44c-4fa7-4611-b33e-989c024b5829,2024-04-25,country,Maddox-Lewis,1201.92,61,32209.79,48,Other,New Brandon,Credit Card,73317.12000000001,21995.136000000002
+1a521cbf-968b-4dd3-8649-0c65d1cdf045,2024-05-18,life,Arias-Mendoza,1479.23,36,125596.8,52,Other,New Kimberly,Cash,53252.28,15975.684
+ccca5346-bd0b-45cf-8873-2c7be7d48770,2024-03-12,son,Hester-Murphy,1000.36,60,93276.2,27,Male,Maciasmouth,Cash,60021.6,18006.48
+05dc416c-5c87-4726-88bb-c3f02350f9d4,2024-06-18,easy,Jones-Nguyen,1354.53,88,16047.56,63,Other,West Kayla,Credit Card,119198.64,35759.592
+056716db-ec06-4e7b-b700-e7707683883e,2024-05-04,town,Thomas-Mason,1158.54,14,54137.46,38,Male,Port Lindaborough,Online,16219.56,4865.8679999999995
+c44b88f6-fefa-4723-8f13-4af5c137354a,2024-03-24,per,Jacobson-Collins,176.21,67,23432.15,55,Male,Zimmermanmouth,Debit Card,11806.07,3541.821
+b5895a10-2aa6-4046-83c6-9f62429b4b73,2024-06-22,bad,Goodwin PLC,367.91,76,55230.12,44,Male,Port Shelby,Credit Card,27961.160000000003,8388.348
+06cbf9e5-391e-4727-a5b0-24c93b3f88df,2024-07-03,option,"Hanson, Barron and Castillo",1110.66,93,65983.14,25,Female,Dunnland,Debit Card,103291.38,30987.414
+d3e3db15-d472-4157-9673-cd4a419f4c4b,2024-01-10,attack,Rodriguez-Morales,604.24,66,8244.32,32,Female,East Kerrychester,Credit Card,39879.840000000004,11963.952000000001
+385776a8-dd02-47b3-ac81-848385c53e01,2024-01-25,face,"Hester, Lee and Kirby",1309.52,80,52684.5,55,Female,Kellyton,Cash,104761.6,31428.48
+7ea41fe4-3bae-498f-8afe-c3108ac5e6c7,2024-07-22,indeed,Gonzales Ltd,843.86,79,30967.26,63,Other,Mollychester,Debit Card,66664.94,19999.482
+bc12e24b-f585-4548-9fc4-26c8ad86e7f8,2024-04-10,instead,Jordan-Bass,518.31,90,57134.35,62,Other,South Shawnstad,Debit Card,46647.899999999994,13994.369999999997
+ca75acb8-1b33-43f5-a877-ec7c0affaeaa,2024-03-06,institution,"Cox, Friedman and Martinez",1393.2,17,30249.72,60,Other,East Gregorymouth,Cash,23684.4,7105.320000000001
+2ad868ea-e6ec-4c08-90df-28627a36cd19,2024-05-27,science,"Daniels, Rojas and Pearson",1137.5,96,14628.86,29,Male,Sheilaburgh,Online,109200.0,32760.0
+21cdcebc-fa3e-413a-9702-8fbd7b1d8682,2024-05-20,plant,Thomas Ltd,1217.74,96,65193.3,45,Other,Mooreburgh,Cash,116903.04000000001,35070.912000000004
+4e95a319-f1b4-467d-94ec-9ebff719e84e,2024-07-03,short,Sanchez PLC,701.18,38,61147.01,45,Male,Meganville,Debit Card,26644.839999999997,7993.451999999998
+345dabd6-91f8-49f1-9247-cfb402a45db6,2024-01-16,turn,Miller Ltd,1053.4,67,61207.68,24,Female,New Mary,Cash,70577.8,21173.34
+aa78a2fe-a7af-4188-8aa0-be621a1679de,2024-07-12,paper,Moran Inc,551.21,44,36745.62,31,Female,New Catherinebury,Credit Card,24253.24,7275.972000000001
+f96ad151-8b3e-4126-99a5-97a4a176915a,2024-03-07,station,"Good, Davis and Smith",1279.24,35,30831.96,20,Male,Millerville,Debit Card,44773.4,13432.02
+61e90a0c-2b26-4f98-8cbf-9254e8fff1d7,2024-04-03,up,Wheeler Ltd,1339.05,26,49444.77,23,Female,Tinashire,Debit Card,34815.299999999996,10444.589999999998
+ab65afba-2bee-46a3-8b23-fda5f5d18601,2024-04-26,oil,Garcia Ltd,741.44,19,22331.2,64,Male,Port Ashleyfort,Online,14087.36,4226.208
+45cf6d15-4c86-4367-ada7-cdb67dc97ae2,2024-02-25,also,Williams-Thompson,377.93,65,26928.7,55,Male,East Kellie,Credit Card,24565.45,7369.635
+4924b8bf-24a5-423a-9f6d-7f9f34af8f63,2024-02-07,who,Williams Group,1468.09,17,27941.23,40,Female,Lake Paulberg,Online,24957.53,7487.258999999999
+6e9b3fb9-acd2-458a-8d6f-cc76b8f3c204,2024-04-06,despite,"Butler, Perkins and Arnold",1270.14,52,119945.35,63,Female,North Michelle,Credit Card,66047.28,19814.183999999997
+09a71474-17da-4b3e-a2e2-d1236413e371,2024-03-16,more,Hensley-Love,166.35,81,61037.76,44,Male,Lake Elijah,Online,13474.35,4042.305
+9a103997-b481-4002-828a-9946e69a90d7,2024-05-27,little,Pace-Davis,851.8,45,19677.54,18,Male,Stevensberg,Cash,38331.0,11499.3
+7c7bd8d1-cd26-432f-a68e-0eeab4f37285,2024-02-27,economy,"Johnson, Scott and Kim",318.26,91,66512.57,53,Male,Stevenstad,Online,28961.66,8688.498
+5bba96f6-9ef0-41b4-a380-a93ea29f74c9,2024-01-11,maybe,Bullock LLC,985.58,13,19137.78,23,Other,Villachester,Cash,12812.54,3843.762
+391959dc-a30c-4625-83fe-c56bc5a23c7b,2024-03-19,consider,Cochran-Phillips,402.39,97,33697.62,34,Male,Kington,Debit Card,39031.83,11709.549
+3b3bc77b-8d8a-4795-87e8-1692a608808d,2024-06-27,hand,Ochoa-Martin,545.15,73,2169.76,31,Female,Port Williamtown,Credit Card,39795.95,11938.784999999998
+2167afa6-f6fa-4e54-9d28-9027e236426a,2024-02-15,night,"Miller, Campbell and Russell",978.57,21,5686.05,50,Male,East Tammy,Debit Card,20549.97,6164.991
+bcbeb5c0-da1b-4aa1-9178-695252ff6b03,2024-05-18,yard,Delgado PLC,1077.06,52,2390.16,30,Male,Matthewbury,Online,56007.119999999995,16802.136
+81201758-d358-4752-ae12-239b8faebae6,2024-07-22,statement,Williams Ltd,850.45,43,107462.16,38,Female,Matthewbury,Credit Card,36569.35,10970.804999999998
+8ed7fc5b-2bdd-4bd7-8fc5-8a5c7ccba962,2024-01-13,situation,Rodriguez-Dominguez,599.19,36,15431.68,30,Female,Port Annettefort,Cash,21570.840000000004,6471.252000000001
+aa7aa247-efc9-4872-b482-66d779d66291,2024-04-05,past,Hoover Inc,481.84,27,111536.64,55,Male,Lindaside,Debit Card,13009.679999999998,3902.9039999999995
+592eb398-a865-4282-8a8c-ee125cae45aa,2024-06-20,song,Morris Inc,1321.92,73,29245.5,22,Male,Wallsport,Credit Card,96500.16,28950.048
+4df64a47-3dd2-49f1-bca8-6650b0021bca,2024-05-04,picture,Sanchez PLC,631.91,25,59445.6,42,Other,South Josemouth,Online,15797.75,4739.325
+4e19f661-161a-43bd-97a7-d60cfb8192da,2024-03-15,type,Patrick Inc,955.3,78,100429.2,61,Female,North Kendra,Debit Card,74513.4,22354.019999999997
+fe824ec3-d1da-41d6-b48c-f456b64553cd,2024-06-11,rise,"Roberts, Lin and Davis",1358.18,65,38634.65,38,Female,Port Tyler,Credit Card,88281.7,26484.51
+6e7e8815-513f-4c6a-b6d5-ce61ad93a605,2024-05-12,late,"Ford, Carpenter and Valdez",597.5,69,18986.4,45,Other,Sharonton,Cash,41227.5,12368.25
+b1a479c9-4caa-4cc6-b5aa-557b0b1bb69c,2024-06-10,true,May PLC,381.11,37,41107.9,47,Female,Josephshire,Credit Card,14101.07,4230.321
+4a264cb1-96f1-47f0-ae69-fadad56c960e,2024-01-21,everybody,Taylor Inc,1369.73,8,13189.02,30,Other,Lauraberg,Debit Card,10957.84,3287.352
+cbba6938-6721-4ed9-b465-94612dbbc6ab,2024-03-26,win,Allen-Garza,977.58,64,12145.32,27,Female,Christophershire,Debit Card,62565.12,18769.536
+b5cbe4ea-8f98-4227-b05b-ff80d82757a2,2024-02-13,almost,Henry-Frazier,831.95,73,55914.88,63,Male,Cassidyview,Cash,60732.350000000006,18219.705
+327e7a79-5a59-4aeb-afa3-87f72e5d67d6,2024-02-27,late,Phillips Group,712.19,73,28319.62,19,Other,West Josephville,Online,51989.87,15596.961
+ad2b4bff-dce0-4620-bc82-f904e60c49cb,2024-03-29,contain,Guerra-Coleman,1355.42,67,28161.1,58,Other,Port Amyburgh,Cash,90813.14,27243.942
+55d0c00a-793e-467e-bd80-5719d176305b,2024-02-09,age,Wallace-Fleming,1174.82,71,54939.8,62,Female,Juliaton,Online,83412.22,25023.666
+e3ec2665-f9ee-4223-90b2-104ebe81e2e6,2024-06-21,everything,Vasquez and Sons,678.21,72,35702.64,44,Male,Port Jeffreyville,Cash,48831.12,14649.336000000001
+3b76ccfb-7609-4032-b895-932df8d3e143,2024-01-27,address,Martin Inc,1401.12,15,69483.57,23,Female,West Christine,Cash,21016.8,6305.04
+1e273c52-d2b0-45c7-b5e4-eb5fa7349f59,2024-02-16,safe,Durham-Lewis,1131.17,54,38285.38,19,Other,Karenburgh,Online,61083.18000000001,18324.954
+5cbb8da8-1810-4753-a9b6-29cbb9ef345b,2024-02-29,well,Harper Inc,992.14,88,58208.48,45,Other,West Joyfort,Credit Card,87308.31999999999,26192.495999999996
+90cd3146-c7b2-4de3-a472-472be4144213,2024-03-13,no,Manning-Floyd,585.08,66,14106.96,45,Other,Ellisontown,Online,38615.280000000006,11584.584
+78c743c7-9982-43f5-8e7a-50b410c9b5bd,2024-07-16,choose,Kirby and Sons,756.49,90,10472.85,32,Female,South Crystal,Cash,68084.1,20425.23
+9d647d9c-dc63-41a5-ae45-7296cbd8c3f7,2024-06-12,owner,"Padilla, Gibson and Ingram",1122.28,18,17500.32,32,Other,Christinehaven,Debit Card,20201.04,6060.312
+c7b5b4d9-549b-4b44-b457-520a12cc67d8,2024-07-04,explain,"Smith, Davis and Gutierrez",913.01,64,26757.76,22,Female,South Rebeccachester,Online,58432.64,17529.791999999998
+976cc526-100f-41ea-a8fa-6beb56f959f9,2024-02-13,decision,Miller-Jordan,1251.55,95,31085.22,55,Female,Michaelhaven,Debit Card,118897.25,35669.174999999996
+60cf0698-9cbf-4d7e-b7c5-0edb4fa6cf42,2024-05-19,form,Clark-Henderson,329.18,66,38257.05,53,Female,West Amy,Cash,21725.88,6517.764
+c4c114b1-252e-4e40-9c57-c08f2d7388bc,2024-02-01,particularly,"Myers, Wilcox and Beck",1466.37,86,28288.0,22,Male,Danielbury,Online,126107.81999999999,37832.346
+f5461a7d-1de9-43d5-9718-f9a79477a336,2024-03-22,budget,Dunn-Jackson,748.66,25,120191.15,33,Male,Douglasside,Credit Card,18716.5,5614.95
+c390e049-3c4f-4b58-ad23-f52c64d7768f,2024-01-18,resource,"Fox, Stevens and Bell",1114.73,91,7388.25,64,Male,East Robertahaven,Debit Card,101440.43000000001,30432.129
+7df392b2-dc57-4903-ad7f-2f9d03b6dce1,2024-01-24,half,Mason PLC,1281.01,61,31400.96,36,Female,Port Stevenside,Debit Card,78141.61,23442.483
+03b65910-37b4-402c-b17c-6fbe0ccd37dc,2024-05-09,star,Smith-Ramirez,1250.06,23,70563.15,33,Male,New Lauriefort,Debit Card,28751.379999999997,8625.413999999999
+d73e4e8b-1032-4086-aa77-8cf8fea98d25,2024-02-17,this,Mcdonald PLC,1018.23,49,70831.8,64,Female,East Timothyview,Online,49893.270000000004,14967.981
+57f49450-3afd-414c-88da-12ce37fdce1b,2024-03-21,loss,Gill-Boyle,187.82,71,2835.0,56,Female,Ramireztown,Cash,13335.22,4000.566
+38c83cb8-0f96-4b4a-9a09-c54ac646beb5,2024-03-09,finish,"Cooper, Ford and Heath",665.03,34,631.1,60,Female,Kimberlyburgh,Credit Card,22611.02,6783.306
+bdc10214-d629-4840-b21c-bb205e3635a1,2024-07-12,this,"Wagner, Martinez and Dorsey",823.78,28,25950.4,39,Other,Scottfurt,Credit Card,23065.84,6919.7519999999995
+903f5961-35c7-47b9-a1f1-5492aa15b049,2024-04-06,four,Robinson-Thompson,1223.95,95,8217.44,43,Female,East Adam,Credit Card,116275.25,34882.575
+bc3d7bea-6b9d-4e00-b65f-3bdad1022c15,2024-01-22,why,"Williamson, Graham and Farrell",846.09,59,28023.93,44,Male,Patricktown,Cash,49919.310000000005,14975.793000000001
+a325fb88-facd-4876-9250-46cdb4a452c4,2024-05-07,response,Booker-Camacho,265.91,97,122804.31,54,Other,New Thomas,Debit Card,25793.270000000004,7737.981000000001
+6848fd52-ccbd-4bfb-8ddf-349698439e7b,2024-03-30,adult,Larsen-Russell,475.83,45,65965.5,19,Male,Hardyborough,Online,21412.35,6423.704999999999
+a8654ec4-93a2-4c76-b33f-4f3f00144826,2024-05-08,stay,"Sanders, Jones and Keller",878.03,72,27861.45,37,Other,Knoxhaven,Debit Card,63218.159999999996,18965.447999999997
+95cf53d7-f020-42cd-8c9e-5edeec01598f,2024-06-07,goal,Smith-Rodriguez,331.35,35,40851.9,47,Male,New Andrea,Cash,11597.25,3479.1749999999997
+a84fac8a-948c-452a-819e-47d80945463d,2024-05-03,she,Aguirre-Reed,336.3,51,16334.85,56,Other,Terrellview,Online,17151.3,5145.389999999999
+d796da96-c5f1-40d5-9929-e01a4d61820a,2024-03-19,suggest,"Keller, Stevenson and Gonzalez",276.84,84,26161.98,35,Female,New Kimberly,Credit Card,23254.559999999998,6976.3679999999995
+b69dd2c8-0da1-41bb-98b2-e14c537b3c90,2024-02-27,cultural,"Smith, Thompson and Vance",1227.05,51,7365.31,28,Female,Port Paulstad,Cash,62579.549999999996,18773.864999999998
+23464765-b044-4ced-94a1-a11d2471107b,2024-04-27,prove,Ferrell Inc,956.78,99,75674.76,26,Male,South Donnabury,Online,94721.22,28416.365999999998
+37771a5c-d5e6-45a2-962a-1ffed462104b,2024-05-06,old,Evans-Allison,1002.94,92,54851.29,31,Other,Thompsontown,Cash,92270.48000000001,27681.144000000004
+d10957ee-5972-4104-92e7-ad892e6f833b,2024-05-11,talk,"Ruiz, Sullivan and Gates",1200.66,11,27826.2,48,Male,Robinbury,Debit Card,13207.26,3962.178
+ce458701-d5ae-429b-9c9b-175e5b87e08e,2024-01-21,cost,Wolfe PLC,511.23,29,54093.24,38,Female,Johnville,Debit Card,14825.67,4447.701
+44c2f618-fc23-4c90-a3b2-d1b323f6550e,2024-02-23,leave,Gibson-Armstrong,644.55,20,2524.08,24,Female,Port Kim,Debit Card,12891.0,3867.2999999999997
+eac79ee6-e787-48df-96a4-ea6b11fd5aa6,2024-03-07,guess,"Horton, Sanchez and Mitchell",1283.63,19,19956.86,33,Male,Jordanburgh,Credit Card,24388.97,7316.691
+34a118c4-60d2-4450-8bc1-0c8435adabeb,2024-02-18,experience,Jones PLC,933.63,18,12363.0,44,Male,South Elizabethview,Debit Card,16805.34,5041.602
+1fb35069-668a-46f7-9c89-59d29d5b2474,2024-07-13,enter,Hawkins Group,192.16,81,37192.87,31,Male,Johnsonhaven,Credit Card,15564.96,4669.487999999999
+f22a6098-09a4-4798-96b0-9c04a2b79dc3,2024-05-11,keep,"Huang, Nash and Wall",490.28,89,83112.48,44,Male,Kathleenstad,Credit Card,43634.92,13090.475999999999
+08d4278b-2d74-4a4c-91f9-32da4e9d2979,2024-01-11,behavior,Fuller-Torres,951.85,30,50048.0,43,Male,Brianberg,Debit Card,28555.5,8566.65
+f507de10-0f04-44a3-8057-d114578829d9,2024-06-16,visit,"Zhang, Bailey and Burnett",1481.7,32,56157.8,36,Male,Rojasmouth,Cash,47414.4,14224.32
+9a6ddb46-6a36-46c5-bbf4-a07794e5102e,2024-01-02,very,"Smith, Shelton and Anderson",1004.17,59,7468.34,64,Female,Martinezbury,Debit Card,59246.03,17773.808999999997
+cfd9fc56-1414-406b-b0df-728ac8cb57fc,2024-01-14,least,Mcdowell and Sons,1488.37,24,73197.12,58,Other,Michaelton,Credit Card,35720.88,10716.264
+1dc5f7eb-89cf-48c1-a377-4f33a0762835,2024-07-01,degree,Gomez LLC,1416.21,38,31379.76,61,Male,Clarkview,Cash,53815.98,16144.794
+9fe6d914-0191-4e9a-8e24-46c4560850ae,2024-01-07,drive,Hayes-Johnson,353.14,63,73462.8,42,Other,New Wendy,Credit Card,22247.82,6674.346
+6eeef3ad-fd38-49f6-964f-e22f379f3451,2024-01-31,happen,"Torres, Howell and Gomez",1298.8,54,73347.52,58,Other,Brucemouth,Debit Card,70135.2,21040.559999999998
+64547888-8d3c-4469-8157-92729b14630a,2024-06-27,job,Campbell-Serrano,1343.0,74,70333.31,46,Female,Port Keithburgh,Credit Card,99382.0,29814.6
+63630c72-843c-4e7c-9217-a5bb4c8be91c,2024-01-02,marriage,Herrera-Alvarez,1159.58,77,46423.8,45,Male,South Roy,Credit Card,89287.65999999999,26786.297999999995
+4a8d009b-8efd-43bd-b7e5-fcce1a070a22,2024-04-28,table,"Combs, Wise and Clark",1157.65,54,107408.16,46,Other,New Richardland,Debit Card,62513.100000000006,18753.93
+cf0ec4eb-6751-4904-9980-9cbacd679c14,2024-03-15,hope,Hamilton-Garcia,1348.6,79,44273.85,55,Female,Tannerfort,Debit Card,106539.4,31961.819999999996
+16b41291-39eb-4a93-8bd7-9d0758f04e6a,2024-02-17,forward,Cochran-Black,1418.32,20,34266.78,45,Other,Fischertown,Credit Card,28366.399999999998,8509.919999999998
+e5032217-c447-4d62-9536-64448dd8fd17,2024-04-19,building,Austin Inc,979.95,65,2856.78,36,Female,North Vicki,Debit Card,63696.75,19109.024999999998
+7a700d23-2557-4887-b77a-1a01cccda255,2024-07-23,firm,Reeves-Elliott,281.69,85,39433.8,28,Female,Burtonfort,Cash,23943.65,7183.095
+49a0c699-9cef-455b-9897-a120a18dce19,2024-05-26,among,"Hutchinson, Roberts and Mcbride",753.55,83,39273.76,50,Male,North Carlostown,Credit Card,62544.649999999994,18763.394999999997
+ef670dc7-caa8-478d-b0c6-e9c1edda6802,2024-04-19,air,Blanchard LLC,831.78,57,36134.87,25,Female,North Mirandaburgh,Debit Card,47411.46,14223.438
+baf11b3f-a0f6-4c34-9304-798185427b4b,2024-06-25,better,May-Snyder,708.09,50,5379.01,49,Other,Carneyville,Cash,35404.5,10621.35
+f12aa1b8-63e7-4bbb-b320-1a22ce062d1d,2024-06-26,heavy,"Mayer, Moore and Murphy",976.1,84,65819.8,26,Other,North Danielle,Debit Card,81992.40000000001,24597.72
+f503c272-a176-4704-9011-e47781852269,2024-03-19,huge,Allen-Mays,1349.26,83,98113.14,52,Male,Danielport,Online,111988.58,33596.574
+30c41716-9747-4fee-8bd6-d5efb9a3ec95,2024-06-15,while,"Fox, Burgess and White",559.89,64,52464.04,21,Male,Barnesburgh,Debit Card,35832.96,10749.887999999999
+e73280aa-9285-47d2-9ca6-b0eb741c07c1,2024-06-01,green,Pugh-Knight,780.0,92,22162.56,21,Male,Lauraville,Cash,71760.0,21528.0
+5759b023-dd6f-4b24-8acf-e8859b3eaab3,2024-02-05,will,Jordan and Sons,411.37,69,30928.8,44,Other,East Sarahfort,Online,28384.53,8515.358999999999
+ff2791c3-af0a-453b-89e5-169a77a9dadc,2024-02-02,talk,Gallagher-Kirby,1318.33,61,65251.32,42,Male,North Michaelfort,Debit Card,80418.12999999999,24125.438999999995
+6f68f4d9-5bcc-4133-861d-08004cc4be03,2024-02-01,whose,Cortez Group,782.06,31,12284.73,21,Female,Michaelhaven,Cash,24243.859999999997,7273.1579999999985
+1b7431e7-2433-4ea1-bf57-e8f016d1bd10,2024-01-01,produce,Fernandez LLC,705.82,69,47181.63,57,Other,Matthewborough,Credit Card,48701.58,14610.474
+0d869d64-a930-4572-bc91-feefa85ddef0,2024-01-02,occur,Miranda LLC,843.61,44,37046.4,51,Female,Joshuashire,Credit Card,37118.840000000004,11135.652
+6f137bc1-f835-47aa-ab88-08287de43945,2024-02-23,contain,Johnston Ltd,865.12,34,10610.49,19,Female,New Sarah,Cash,29414.08,8824.224
+fd6868d4-24fe-46d6-afba-bebbbf09061e,2024-01-18,material,"Steele, Fuller and Freeman",1106.02,47,16149.6,34,Other,New John,Debit Card,51982.94,15594.882
+e0212dcc-a193-4140-906b-2620eb2ab184,2024-02-18,discuss,Yoder PLC,910.22,12,89275.68,39,Male,Burnsfort,Cash,10922.64,3276.792
+9ad6949c-009e-420a-91e7-ca84d28c8a0e,2024-06-07,television,Bailey Ltd,374.64,39,13319.19,23,Other,West Christopherside,Online,14610.96,4383.288
+b80fc87e-d487-45ae-b2db-c91eb2b155b2,2024-05-17,cold,Scott PLC,321.91,35,24160.5,30,Female,Bennettburgh,Cash,11266.85,3380.055
+c8220362-d66a-4c81-b972-9619934627c3,2024-03-01,cause,Martin Inc,1412.84,51,97260.77,55,Female,Allisonburgh,Cash,72054.84,21616.451999999997
+337a5420-e083-48c6-9e37-e82a1e68df8a,2024-05-19,challenge,"Morgan, Burns and Gregory",245.35,46,11894.0,45,Female,Andersonchester,Credit Card,11286.1,3385.83
+246f33f9-10a0-4d0d-82f5-e7c2164caf37,2024-07-14,around,"Carroll, Brown and Bates",1486.13,75,2336.76,20,Female,Amybury,Online,111459.75000000001,33437.925
+b8169e82-3a19-4163-b3da-9dd4fd3477e4,2024-05-30,scientist,Kramer-Cox,1172.27,57,18492.14,43,Other,East Johnburgh,Credit Card,66819.39,20045.817
+6ef5a75a-1b8d-44c2-a34b-11cbfdfb88eb,2024-07-24,trade,Yang-Coleman,734.72,35,1807.65,30,Male,East Erik,Credit Card,25715.2,7714.5599999999995
+71e9633b-9cc9-4820-a185-15441b233436,2024-01-21,guess,"Owens, Grimes and Patrick",554.42,43,12752.4,27,Other,South Jesus,Debit Card,23840.059999999998,7152.017999999999
+52b68db3-b569-4088-aa24-917128829aed,2024-01-23,charge,"Ashley, Fields and Vazquez",859.11,20,22309.28,39,Male,Marystad,Online,17182.2,5154.66
+2a3f4370-8b0f-4644-acfb-7f331c22a257,2024-01-27,guy,"Mayer, Fisher and White",790.63,95,39012.28,48,Male,East Robert,Online,75109.85,22532.955
+3ac3e788-e9f8-4c0e-856a-178386e77dc5,2024-01-14,administration,Campbell PLC,581.79,72,42636.47,26,Female,South Marthamouth,Credit Card,41888.88,12566.663999999999
+81b1a5a2-8b69-44be-ad7e-7b5a3bd9eafe,2024-06-13,almost,"Hartman, Lopez and Riley",737.52,67,680.88,61,Male,North Caitlinview,Online,49413.84,14824.151999999998
+b7c449c6-4639-45f6-a206-3befd4d6bce1,2024-06-23,step,Gilbert and Sons,1429.56,8,28008.12,54,Other,West Anthonyhaven,Cash,11436.48,3430.944
+ca83fe1d-710f-4f49-9374-39aa564f213f,2024-06-07,seem,"Alvarez, Martinez and Robertson",1049.5,55,5796.6,27,Other,Lake Stephanieshire,Online,57722.5,17316.75
+68d7ff38-6d21-4f44-9f7d-905752d8f7f5,2024-05-26,be,Rivera and Sons,589.13,64,1625.1,28,Female,South Chadmouth,Cash,37704.32,11311.296
+caab0fa6-37de-4faf-832b-531517c80874,2024-05-07,weight,"Smith, Greene and Miller",948.49,44,38063.04,31,Male,Biancachester,Credit Card,41733.56,12520.068
+e5fe1da0-0668-427f-bd36-e85f30bda556,2024-02-08,bit,Franco Ltd,605.61,35,40883.06,27,Other,Michelleburgh,Online,21196.350000000002,6358.905000000001
+0e789314-8b84-4df7-a370-efdfaa229412,2024-01-19,including,Rogers-Rodriguez,573.22,99,13973.56,48,Other,Port Timothymouth,Online,56748.780000000006,17024.634000000002
+bf188101-cb80-47b7-8d18-a62c1bcec85f,2024-01-20,attorney,Hartman-Rodriguez,395.07,45,104115.4,31,Female,West Suzanne,Credit Card,17778.15,5333.445000000001
+4160d472-4d0f-4a59-86b8-86e297bc6dec,2024-01-05,manager,Smith Group,1484.79,26,30505.44,41,Female,Mollyton,Online,38604.54,11581.362
+45adddf0-25a6-424e-a018-9eaacfede7d0,2024-06-02,certain,Johnson-Andrews,1284.76,39,52237.25,27,Female,Miguelport,Debit Card,50105.64,15031.692
+5e537142-c36f-4264-aa25-93c69f79c26d,2024-04-05,attack,Castillo Inc,1199.91,75,3679.38,44,Other,Xavierberg,Credit Card,89993.25,26997.975
+b4df370f-821b-43aa-a876-841b99222c0b,2024-07-01,discussion,"Santiago, Yoder and Stevens",1447.46,73,73070.87,59,Male,Andreaview,Online,105664.58,31699.374
+ee24e583-be91-4fee-9b9e-0210b1c41e00,2024-02-25,service,Hicks and Sons,947.69,57,15252.45,28,Male,Lake Josephborough,Debit Card,54018.33,16205.499
+aeca97ff-06ee-46cd-8f8e-58aa97bd295d,2024-01-04,rate,Woods-Murphy,1366.7,32,128158.03,24,Male,Lake Samanthachester,Debit Card,43734.4,13120.32
+d1c3c93a-6137-468a-a281-369e38b80eb0,2024-01-21,fly,Frey LLC,781.0,53,38333.18,39,Female,Christopherland,Cash,41393.0,12417.9
+f61b2727-a9e5-4d0d-bcc0-8a51a0490782,2024-07-04,serve,Moore-Ingram,557.32,39,124490.7,51,Other,West Sarahport,Cash,21735.480000000003,6520.644000000001
+83825219-5c2e-49f1-99ca-7ccd1edebb71,2024-04-07,where,Aguilar-Campos,455.29,88,65534.62,54,Female,North Linda,Cash,40065.520000000004,12019.656
+27d10756-0d57-4d2a-83bf-f150a150ae73,2024-05-07,debate,Rice-Hernandez,416.77,44,42752.6,45,Other,South Nathanmouth,Online,18337.879999999997,5501.363999999999
+fa2fe475-58ab-45e0-8665-423ac1d99875,2024-04-02,law,Hill Inc,613.68,37,33106.0,46,Male,South Ronald,Online,22706.16,6811.848
+1a75e25a-a1c4-4528-a308-5a3e46ba0582,2024-01-17,different,Clark Ltd,1471.33,13,46090.24,29,Female,West Stephen,Debit Card,19127.29,5738.187
+8c0faa71-8f95-43f8-9ab7-463a63eaee73,2024-05-22,like,Johnson LLC,919.9,70,99154.29,58,Other,Kevinview,Credit Card,64393.0,19317.899999999998
+78570e53-00a1-4890-94bf-ded05ed52867,2024-01-22,prepare,Horne PLC,1076.75,60,4879.19,64,Other,Port Juan,Debit Card,64605.0,19381.5
+bbd8ed23-fbff-495a-98e9-9a0c2adf365e,2024-07-03,a,Garcia Group,961.14,14,105929.28,40,Female,Johnland,Online,13455.96,4036.7879999999996
+c51d81af-0d8b-4d72-9b39-56ee94ffaf00,2024-05-21,arrive,"Boyd, Hines and Higgins",665.0,96,6875.5,20,Female,New Jessicaberg,Credit Card,63840.0,19152.0
+354935b7-d41c-4477-b1ea-e8ee37865ebc,2024-03-20,beyond,"Lopez, Mann and Sanchez",715.6,66,2444.3,35,Male,Lake Molly,Online,47229.6,14168.88
+cb094e17-9688-442d-9821-844c8f0ebea5,2024-01-27,name,"Chapman, Martinez and Powers",435.43,24,1518.48,38,Female,Barbaraville,Cash,10450.32,3135.096
+fcf20873-f45d-4ae1-ba0a-6333c35a01f6,2024-01-23,watch,Morrison-Stanley,1424.36,79,35283.6,63,Other,Gibbston,Credit Card,112524.43999999999,33757.331999999995
+c6e776aa-f19e-4f86-b35e-4435b0725292,2024-02-11,memory,Johnson-Fleming,766.92,27,7672.96,53,Male,Brendamouth,Cash,20706.84,6212.052
+41f08915-addb-4966-8628-038c479c619a,2024-01-28,challenge,Brooks Ltd,1386.69,76,28865.7,39,Male,Ronaldchester,Credit Card,105388.44,31616.532
+bcfa1912-5bd8-4894-900f-376fa48f022d,2024-07-13,least,"Lang, Brown and Stone",1159.26,59,50471.42,21,Other,West Jenniferport,Credit Card,68396.34,20518.902
+e6839305-a177-4cda-aada-3ac1f49eeeec,2024-01-13,enjoy,"Atkinson, Moore and Nelson",544.31,59,1381.82,26,Female,Barneschester,Credit Card,32114.289999999997,9634.286999999998
+12f7ac32-9063-4ae5-a122-385b06ba77af,2024-01-25,half,"Kim, Maxwell and Moore",331.98,84,8557.32,20,Male,Jonesborough,Online,27886.32,8365.895999999999
+d3e82026-2084-40f2-8d5d-d2a94a198af9,2024-01-17,fill,Wallace LLC,973.97,79,70739.76,44,Female,Port Luis,Credit Card,76943.63,23083.089
