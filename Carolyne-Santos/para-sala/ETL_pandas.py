@@ -1,7 +1,7 @@
 #Biblioteca
 import pandas as pd
 
-#Baixando o arquivo
+#Carregando o arquivo
 df = pd.read_csv("C:/Users/carol/OneDrive/Área de Trabalho/Reprograma/on33-python-s11-pandas-numpy-I/Carolyne-Santos/para-sala/filtered_list.csv")
 
 #Colunas
@@ -36,3 +36,9 @@ print(filtered_df.head())
 
 #Salvar em csv nosso df filtrado como 'vendas_filtradas'
 filtered_df.to_csv("C:/Users/carol/OneDrive/Área de Trabalho/Reprograma/on33-python-s11-pandas-numpy-I/Carolyne-Santos/para-sala/vendas_filtradas.csv", index=False)
+
+#Carregando o arquivo 'vendas_filtradas', chamei de 'vendas'
+vendas = pd.read_csv("C:/Users/carol/OneDrive/Área de Trabalho/Reprograma/on33-python-s11-pandas-numpy-I/Carolyne-Santos/para-sala/vendas_filtradas.csv")
+
+#Visualizar
+print(vendas.head())
